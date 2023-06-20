@@ -1,0 +1,7044 @@
+{
+  "Result": [
+    {
+      "ORG": "ABJ",
+      "DST": "COO",
+      "GCD": 709
+    },
+    {
+      "ORG": "ABJ",
+      "DST": "IST",
+      "GCD": 5143
+    },
+    {
+      "ORG": "ABV",
+      "DST": "IST",
+      "GCD": 4153
+    },
+    {
+      "ORG": "ACC",
+      "DST": "IST",
+      "GCD": 4884
+    },
+    {
+      "ORG": "ADA",
+      "DST": "AYT",
+      "GCD": 399
+    },
+    {
+      "ORG": "ADA",
+      "DST": "BER",
+      "GCD": 2412
+    },
+    {
+      "ORG": "ADA",
+      "DST": "BEY",
+      "GCD": 351
+    },
+    {
+      "ORG": "ADA",
+      "DST": "CGN",
+      "GCD": 2709
+    },
+    {
+      "ORG": "ADA",
+      "DST": "DUS",
+      "GCD": 2753
+    },
+    {
+      "ORG": "ADA",
+      "DST": "ECN",
+      "GCD": 259
+    },
+    {
+      "ORG": "ADA",
+      "DST": "ESB",
+      "GCD": 402
+    },
+    {
+      "ORG": "ADA",
+      "DST": "FRA",
+      "GCD": 2579
+    },
+    {
+      "ORG": "ADA",
+      "DST": "GZT",
+      "GCD": 196
+    },
+    {
+      "ORG": "ADA",
+      "DST": "HAJ",
+      "GCD": 2634
+    },
+    {
+      "ORG": "ADA",
+      "DST": "HAM",
+      "GCD": 2686
+    },
+    {
+      "ORG": "ADA",
+      "DST": "IST",
+      "GCD": 739
+    },
+    {
+      "ORG": "ADA",
+      "DST": "MUC",
+      "GCD": 2289
+    },
+    {
+      "ORG": "ADA",
+      "DST": "SAW",
+      "GCD": 676
+    },
+    {
+      "ORG": "ADA",
+      "DST": "STR",
+      "GCD": 2477
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ADA",
+      "GCD": 731
+    },
+    {
+      "ORG": "ADB",
+      "DST": "AMS",
+      "GCD": 2330
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ATH",
+      "GCD": 284
+    },
+    {
+      "ORG": "ADB",
+      "DST": "AYT",
+      "GCD": 357
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BAH",
+      "GCD": 2571
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BEG",
+      "GCD": 922
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BER",
+      "GCD": 1888
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BHX",
+      "GCD": 2728
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BJV",
+      "GCD": 124
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BKK",
+      "GCD": 7656
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BLQ",
+      "GCD": 1493
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BOD",
+      "GCD": 2422
+    },
+    {
+      "ORG": "ADB",
+      "DST": "BOS",
+      "GCD": 7849
+    },
+    {
+      "ORG": "ADB",
+      "DST": "CGN",
+      "GCD": 2104
+    },
+    {
+      "ORG": "ADB",
+      "DST": "CMN",
+      "GCD": 3168
+    },
+    {
+      "ORG": "ADB",
+      "DST": "DLM",
+      "GCD": 227
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ECN",
+      "GCD": 664
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ESB",
+      "GCD": 544
+    },
+    {
+      "ORG": "ADB",
+      "DST": "EWR",
+      "GCD": 8172
+    },
+    {
+      "ORG": "ADB",
+      "DST": "FCO",
+      "GCD": 1329
+    },
+    {
+      "ORG": "ADB",
+      "DST": "FRA",
+      "GCD": 1968
+    },
+    {
+      "ORG": "ADB",
+      "DST": "GNY",
+      "GCD": 1039
+    },
+    {
+      "ORG": "ADB",
+      "DST": "GVA",
+      "GCD": 1940
+    },
+    {
+      "ORG": "ADB",
+      "DST": "HAJ",
+      "GCD": 2075
+    },
+    {
+      "ORG": "ADB",
+      "DST": "IST",
+      "GCD": 357
+    },
+    {
+      "ORG": "ADB",
+      "DST": "JFK",
+      "GCD": 8149
+    },
+    {
+      "ORG": "ADB",
+      "DST": "LGW",
+      "GCD": 2572
+    },
+    {
+      "ORG": "ADB",
+      "DST": "LHE",
+      "GCD": 4335
+    },
+    {
+      "ORG": "ADB",
+      "DST": "LIS",
+      "GCD": 3144
+    },
+    {
+      "ORG": "ADB",
+      "DST": "MAN",
+      "GCD": 2801
+    },
+    {
+      "ORG": "ADB",
+      "DST": "MNL",
+      "GCD": 9356
+    },
+    {
+      "ORG": "ADB",
+      "DST": "MSQ",
+      "GCD": 1734
+    },
+    {
+      "ORG": "ADB",
+      "DST": "MUC",
+      "GCD": 1669
+    },
+    {
+      "ORG": "ADB",
+      "DST": "NAP",
+      "GCD": 1141
+    },
+    {
+      "ORG": "ADB",
+      "DST": "NCE",
+      "GCD": 1776
+    },
+    {
+      "ORG": "ADB",
+      "DST": "NUE",
+      "GCD": 1788
+    },
+    {
+      "ORG": "ADB",
+      "DST": "OGU",
+      "GCD": 983
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ORN",
+      "GCD": 2482
+    },
+    {
+      "ORG": "ADB",
+      "DST": "RAK",
+      "GCD": 3278
+    },
+    {
+      "ORG": "ADB",
+      "DST": "SAW",
+      "GCD": 343
+    },
+    {
+      "ORG": "ADB",
+      "DST": "STR",
+      "GCD": 1846
+    },
+    {
+      "ORG": "ADB",
+      "DST": "TBS",
+      "GCD": 1563
+    },
+    {
+      "ORG": "ADB",
+      "DST": "TLV",
+      "GCD": 990
+    },
+    {
+      "ORG": "ADB",
+      "DST": "VIE",
+      "GCD": 1386
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ZAG",
+      "GCD": 1234
+    },
+    {
+      "ORG": "ADB",
+      "DST": "ZRH",
+      "GCD": 1823
+    },
+    {
+      "ORG": "ADD",
+      "DST": "IST",
+      "GCD": 3713
+    },
+    {
+      "ORG": "ADF",
+      "DST": "ESB",
+      "GCD": 544
+    },
+    {
+      "ORG": "ADF",
+      "DST": "IST",
+      "GCD": 924
+    },
+    {
+      "ORG": "ADF",
+      "DST": "SAW",
+      "GCD": 864
+    },
+    {
+      "ORG": "AER",
+      "DST": "IST",
+      "GCD": 954
+    },
+    {
+      "ORG": "AGP",
+      "DST": "IST",
+      "GCD": 2907
+    },
+    {
+      "ORG": "AJI",
+      "DST": "ERZ",
+      "GCD": 162
+    },
+    {
+      "ORG": "AJI",
+      "DST": "ESB",
+      "GCD": 859
+    },
+    {
+      "ORG": "AJI",
+      "DST": "EZS",
+      "GCD": 343
+    },
+    {
+      "ORG": "AJI",
+      "DST": "IST",
+      "GCD": 1223
+    },
+    {
+      "ORG": "AJI",
+      "DST": "SAW",
+      "GCD": 1174
+    },
+    {
+      "ORG": "ALA",
+      "DST": "AYT",
+      "GCD": 3954
+    },
+    {
+      "ORG": "ALA",
+      "DST": "ESB",
+      "GCD": 3639
+    },
+    {
+      "ORG": "ALA",
+      "DST": "IST",
+      "GCD": 3933
+    },
+    {
+      "ORG": "ALA",
+      "DST": "TPE",
+      "GCD": 4481
+    },
+    {
+      "ORG": "ALG",
+      "DST": "AYT",
+      "GCD": 2453
+    },
+    {
+      "ORG": "ALG",
+      "DST": "CZL",
+      "GCD": 309
+    },
+    {
+      "ORG": "ALG",
+      "DST": "IST",
+      "GCD": 2261
+    },
+    {
+      "ORG": "AMM",
+      "DST": "AYT",
+      "GCD": 747
+    },
+    {
+      "ORG": "AMM",
+      "DST": "DLM",
+      "GCD": 864
+    },
+    {
+      "ORG": "AMM",
+      "DST": "ESB",
+      "GCD": 971
+    },
+    {
+      "ORG": "AMM",
+      "DST": "IST",
+      "GCD": 1242
+    },
+    {
+      "ORG": "AMM",
+      "DST": "TZX",
+      "GCD": 1084
+    },
+    {
+      "ORG": "AMS",
+      "DST": "ADB",
+      "GCD": 2330
+    },
+    {
+      "ORG": "AMS",
+      "DST": "ASR",
+      "GCD": 2801
+    },
+    {
+      "ORG": "AMS",
+      "DST": "AYT",
+      "GCD": 2658
+    },
+    {
+      "ORG": "AMS",
+      "DST": "ESB",
+      "GCD": 2540
+    },
+    {
+      "ORG": "AMS",
+      "DST": "EZS",
+      "GCD": 3059
+    },
+    {
+      "ORG": "AMS",
+      "DST": "IST",
+      "GCD": 2188
+    },
+    {
+      "ORG": "AMS",
+      "DST": "KYA",
+      "GCD": 2677
+    },
+    {
+      "ORG": "AMS",
+      "DST": "PRG",
+      "GCD": 707
+    },
+    {
+      "ORG": "AMS",
+      "DST": "SAW",
+      "GCD": 2251
+    },
+    {
+      "ORG": "AMS",
+      "DST": "SOF",
+      "GCD": 1756
+    },
+    {
+      "ORG": "AMS",
+      "DST": "TZX",
+      "GCD": 2924
+    },
+    {
+      "ORG": "AQJ",
+      "DST": "IST",
+      "GCD": 1412
+    },
+    {
+      "ORG": "ARN",
+      "DST": "AYT",
+      "GCD": 2694
+    },
+    {
+      "ORG": "ARN",
+      "DST": "BJV",
+      "GCD": 2587
+    },
+    {
+      "ORG": "ARN",
+      "DST": "ESB",
+      "GCD": 2414
+    },
+    {
+      "ORG": "ARN",
+      "DST": "IST",
+      "GCD": 2178
+    },
+    {
+      "ORG": "ASB",
+      "DST": "IST",
+      "GCD": 2556
+    },
+    {
+      "ORG": "ASM",
+      "DST": "IST",
+      "GCD": 3042
+    },
+    {
+      "ORG": "ASM",
+      "DST": "JED",
+      "GCD": 707
+    },
+    {
+      "ORG": "ASR",
+      "DST": "AMS",
+      "GCD": 2801
+    },
+    {
+      "ORG": "ASR",
+      "DST": "BAH",
+      "GCD": 1981
+    },
+    {
+      "ORG": "ASR",
+      "DST": "BSL",
+      "GCD": 2459
+    },
+    {
+      "ORG": "ASR",
+      "DST": "CGN",
+      "GCD": 2590
+    },
+    {
+      "ORG": "ASR",
+      "DST": "CPH",
+      "GCD": 2527
+    },
+    {
+      "ORG": "ASR",
+      "DST": "DUS",
+      "GCD": 2632
+    },
+    {
+      "ORG": "ASR",
+      "DST": "FRA",
+      "GCD": 2463
+    },
+    {
+      "ORG": "ASR",
+      "DST": "GVA",
+      "GCD": 2537
+    },
+    {
+      "ORG": "ASR",
+      "DST": "GZT",
+      "GCD": 267
+    },
+    {
+      "ORG": "ASR",
+      "DST": "HAJ",
+      "GCD": 2500
+    },
+    {
+      "ORG": "ASR",
+      "DST": "HAM",
+      "GCD": 2545
+    },
+    {
+      "ORG": "ASR",
+      "DST": "IST",
+      "GCD": 640
+    },
+    {
+      "ORG": "ASR",
+      "DST": "MUC",
+      "GCD": 2179
+    },
+    {
+      "ORG": "ASR",
+      "DST": "NAV",
+      "GCD": 84
+    },
+    {
+      "ORG": "ASR",
+      "DST": "SAW",
+      "GCD": 580
+    },
+    {
+      "ORG": "ASR",
+      "DST": "STR",
+      "GCD": 2370
+    },
+    {
+      "ORG": "ASR",
+      "DST": "VIE",
+      "GCD": 1842
+    },
+    {
+      "ORG": "ATH",
+      "DST": "IST",
+      "GCD": 554
+    },
+    {
+      "ORG": "ATH",
+      "DST": "TLV",
+      "GCD": 1195
+    },
+    {
+      "ORG": "ATL",
+      "DST": "IST",
+      "GCD": 9267
+    },
+    {
+      "ORG": "AUH",
+      "DST": "IST",
+      "GCD": 3040
+    },
+    {
+      "ORG": "AUS",
+      "DST": "IST",
+      "GCD": 10372
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ALA",
+      "GCD": 3954
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ALG",
+      "GCD": 2453
+    },
+    {
+      "ORG": "AYT",
+      "DST": "AMM",
+      "GCD": 747
+    },
+    {
+      "ORG": "AYT",
+      "DST": "AMS",
+      "GCD": 2658
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ARN",
+      "GCD": 2694
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ATL",
+      "GCD": 9717
+    },
+    {
+      "ORG": "AYT",
+      "DST": "BAH",
+      "GCD": 2214
+    },
+    {
+      "ORG": "AYT",
+      "DST": "BER",
+      "GCD": 2188
+    },
+    {
+      "ORG": "AYT",
+      "DST": "BEY",
+      "GCD": 546
+    },
+    {
+      "ORG": "AYT",
+      "DST": "BHX",
+      "GCD": 3065
+    },
+    {
+      "ORG": "AYT",
+      "DST": "BRU",
+      "GCD": 2602
+    },
+    {
+      "ORG": "AYT",
+      "DST": "CAI",
+      "GCD": 754
+    },
+    {
+      "ORG": "AYT",
+      "DST": "CGK",
+      "GCD": 9174
+    },
+    {
+      "ORG": "AYT",
+      "DST": "CGN",
+      "GCD": 2435
+    },
+    {
+      "ORG": "AYT",
+      "DST": "CMN",
+      "GCD": 3497
+    },
+    {
+      "ORG": "AYT",
+      "DST": "CPH",
+      "GCD": 2491
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DAR",
+      "GCD": 4924
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DFW",
+      "GCD": 10577
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DLM",
+      "GCD": 180
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DOH",
+      "GCD": 2359
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DUB",
+      "GCD": 3388
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DUS",
+      "GCD": 2482
+    },
+    {
+      "ORG": "AYT",
+      "DST": "DXB",
+      "GCD": 2665
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ECN",
+      "GCD": 310
+    },
+    {
+      "ORG": "AYT",
+      "DST": "EDI",
+      "GCD": 3317
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ESB",
+      "GCD": 406
+    },
+    {
+      "ORG": "AYT",
+      "DST": "FRA",
+      "GCD": 2301
+    },
+    {
+      "ORG": "AYT",
+      "DST": "FRU",
+      "GCD": 3750
+    },
+    {
+      "ORG": "AYT",
+      "DST": "GOT",
+      "GCD": 2681
+    },
+    {
+      "ORG": "AYT",
+      "DST": "GVA",
+      "GCD": 2293
+    },
+    {
+      "ORG": "AYT",
+      "DST": "GYD",
+      "GCD": 1717
+    },
+    {
+      "ORG": "AYT",
+      "DST": "HAJ",
+      "GCD": 2389
+    },
+    {
+      "ORG": "AYT",
+      "DST": "HAM",
+      "GCD": 2456
+    },
+    {
+      "ORG": "AYT",
+      "DST": "IAH",
+      "GCD": 10721
+    },
+    {
+      "ORG": "AYT",
+      "DST": "IST",
+      "GCD": 517
+    },
+    {
+      "ORG": "AYT",
+      "DST": "JIB",
+      "GCD": 3069
+    },
+    {
+      "ORG": "AYT",
+      "DST": "KBP",
+      "GCD": 1494
+    },
+    {
+      "ORG": "AYT",
+      "DST": "KWI",
+      "GCD": 1811
+    },
+    {
+      "ORG": "AYT",
+      "DST": "KYA",
+      "GCD": 197
+    },
+    {
+      "ORG": "AYT",
+      "DST": "LAD",
+      "GCD": 5387
+    },
+    {
+      "ORG": "AYT",
+      "DST": "LAX",
+      "GCD": 11540
+    },
+    {
+      "ORG": "AYT",
+      "DST": "LED",
+      "GCD": 2547
+    },
+    {
+      "ORG": "AYT",
+      "DST": "LEJ",
+      "GCD": 2181
+    },
+    {
+      "ORG": "AYT",
+      "DST": "LGW",
+      "GCD": 2913
+    },
+    {
+      "ORG": "AYT",
+      "DST": "MAN",
+      "GCD": 3136
+    },
+    {
+      "ORG": "AYT",
+      "DST": "MCT",
+      "GCD": 3012
+    },
+    {
+      "ORG": "AYT",
+      "DST": "MIA",
+      "GCD": 10013
+    },
+    {
+      "ORG": "AYT",
+      "DST": "MUC",
+      "GCD": 2003
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ORD",
+      "GCD": 9289
+    },
+    {
+      "ORG": "AYT",
+      "DST": "PTY",
+      "GCD": 11159
+    },
+    {
+      "ORG": "AYT",
+      "DST": "SAW",
+      "GCD": 462
+    },
+    {
+      "ORG": "AYT",
+      "DST": "SJJ",
+      "GCD": 1307
+    },
+    {
+      "ORG": "AYT",
+      "DST": "STN",
+      "GCD": 2916
+    },
+    {
+      "ORG": "AYT",
+      "DST": "STR",
+      "GCD": 2185
+    },
+    {
+      "ORG": "AYT",
+      "DST": "TLV",
+      "GCD": 659
+    },
+    {
+      "ORG": "AYT",
+      "DST": "TUN",
+      "GCD": 1831
+    },
+    {
+      "ORG": "AYT",
+      "DST": "VIE",
+      "GCD": 1703
+    },
+    {
+      "ORG": "AYT",
+      "DST": "WAW",
+      "GCD": 1864
+    },
+    {
+      "ORG": "AYT",
+      "DST": "YUL",
+      "GCD": 8172
+    },
+    {
+      "ORG": "AYT",
+      "DST": "YVR",
+      "GCD": 10129
+    },
+    {
+      "ORG": "AYT",
+      "DST": "ZRH",
+      "GCD": 2169
+    },
+    {
+      "ORG": "BAH",
+      "DST": "AYT",
+      "GCD": 2214
+    },
+    {
+      "ORG": "BAH",
+      "DST": "IST",
+      "GCD": 2609
+    },
+    {
+      "ORG": "BAH",
+      "DST": "SAW",
+      "GCD": 2547
+    },
+    {
+      "ORG": "BAH",
+      "DST": "TZX",
+      "GCD": 1915
+    },
+    {
+      "ORG": "BAL",
+      "DST": "ESB",
+      "GCD": 744
+    },
+    {
+      "ORG": "BAL",
+      "DST": "IST",
+      "GCD": 1124
+    },
+    {
+      "ORG": "BAL",
+      "DST": "SAW",
+      "GCD": 1068
+    },
+    {
+      "ORG": "BCN",
+      "DST": "IST",
+      "GCD": 2225
+    },
+    {
+      "ORG": "BDS",
+      "DST": "IST",
+      "GCD": 911
+    },
+    {
+      "ORG": "BEG",
+      "DST": "ESB",
+      "GCD": 1164
+    },
+    {
+      "ORG": "BEG",
+      "DST": "IST",
+      "GCD": 792
+    },
+    {
+      "ORG": "BEG",
+      "DST": "MRS",
+      "GCD": 1216
+    },
+    {
+      "ORG": "BEG",
+      "DST": "ZAG",
+      "GCD": 348
+    },
+    {
+      "ORG": "BEG",
+      "DST": "ZRH",
+      "GCD": 954
+    },
+    {
+      "ORG": "BER",
+      "DST": "ADA",
+      "GCD": 2412
+    },
+    {
+      "ORG": "BER",
+      "DST": "ADB",
+      "GCD": 1888
+    },
+    {
+      "ORG": "BER",
+      "DST": "AYT",
+      "GCD": 2188
+    },
+    {
+      "ORG": "BER",
+      "DST": "BJV",
+      "GCD": 2011
+    },
+    {
+      "ORG": "BER",
+      "DST": "ESB",
+      "GCD": 2015
+    },
+    {
+      "ORG": "BER",
+      "DST": "FRA",
+      "GCD": 431
+    },
+    {
+      "ORG": "BER",
+      "DST": "GZT",
+      "GCD": 2538
+    },
+    {
+      "ORG": "BER",
+      "DST": "IST",
+      "GCD": 1689
+    },
+    {
+      "ORG": "BER",
+      "DST": "OGU",
+      "GCD": 2251
+    },
+    {
+      "ORG": "BER",
+      "DST": "SAW",
+      "GCD": 1750
+    },
+    {
+      "ORG": "BER",
+      "DST": "SZF",
+      "GCD": 2135
+    },
+    {
+      "ORG": "BER",
+      "DST": "TZX",
+      "GCD": 2355
+    },
+    {
+      "ORG": "BEY",
+      "DST": "ADA",
+      "GCD": 351
+    },
+    {
+      "ORG": "BEY",
+      "DST": "AYT",
+      "GCD": 546
+    },
+    {
+      "ORG": "BEY",
+      "DST": "BJV",
+      "GCD": 805
+    },
+    {
+      "ORG": "BEY",
+      "DST": "DLM",
+      "GCD": 688
+    },
+    {
+      "ORG": "BEY",
+      "DST": "IST",
+      "GCD": 1019
+    },
+    {
+      "ORG": "BGG",
+      "DST": "ERZ",
+      "GCD": 131
+    },
+    {
+      "ORG": "BGG",
+      "DST": "ESB",
+      "GCD": 668
+    },
+    {
+      "ORG": "BGG",
+      "DST": "EZS",
+      "GCD": 117
+    },
+    {
+      "ORG": "BGG",
+      "DST": "IST",
+      "GCD": 1045
+    },
+    {
+      "ORG": "BGW",
+      "DST": "GZT",
+      "GCD": 739
+    },
+    {
+      "ORG": "BGW",
+      "DST": "IST",
+      "GCD": 1633
+    },
+    {
+      "ORG": "BGW",
+      "DST": "SAW",
+      "GCD": 1571
+    },
+    {
+      "ORG": "BGY",
+      "DST": "SAW",
+      "GCD": 1672
+    },
+    {
+      "ORG": "BHK",
+      "DST": "IST",
+      "GCD": 3012
+    },
+    {
+      "ORG": "BHX",
+      "DST": "AYT",
+      "GCD": 3065
+    },
+    {
+      "ORG": "BHX",
+      "DST": "IST",
+      "GCD": 2609
+    },
+    {
+      "ORG": "BIO",
+      "DST": "IST",
+      "GCD": 2605
+    },
+    {
+      "ORG": "BJL",
+      "DST": "DSS",
+      "GCD": 154
+    },
+    {
+      "ORG": "BJL",
+      "DST": "IST",
+      "GCD": 5367
+    },
+    {
+      "ORG": "BJV",
+      "DST": "ARN",
+      "GCD": 2587
+    },
+    {
+      "ORG": "BJV",
+      "DST": "BER",
+      "GCD": 2011
+    },
+    {
+      "ORG": "BJV",
+      "DST": "BEY",
+      "GCD": 805
+    },
+    {
+      "ORG": "BJV",
+      "DST": "BOS",
+      "GCD": 7957
+    },
+    {
+      "ORG": "BJV",
+      "DST": "DLM",
+      "GCD": 117
+    },
+    {
+      "ORG": "BJV",
+      "DST": "ESB",
+      "GCD": 563
+    },
+    {
+      "ORG": "BJV",
+      "DST": "IST",
+      "GCD": 456
+    },
+    {
+      "ORG": "BJV",
+      "DST": "KWI",
+      "GCD": 2085
+    },
+    {
+      "ORG": "BJV",
+      "DST": "LGW",
+      "GCD": 2683
+    },
+    {
+      "ORG": "BJV",
+      "DST": "PEK",
+      "GCD": 7395
+    },
+    {
+      "ORG": "BJV",
+      "DST": "SAW",
+      "GCD": 429
+    },
+    {
+      "ORG": "BJV",
+      "DST": "SFO",
+      "GCD": 11164
+    },
+    {
+      "ORG": "BJV",
+      "DST": "SJJ",
+      "GCD": 1075
+    },
+    {
+      "ORG": "BJV",
+      "DST": "YYZ",
+      "GCD": 8439
+    },
+    {
+      "ORG": "BKK",
+      "DST": "IST",
+      "GCD": 7520
+    },
+    {
+      "ORG": "BKK",
+      "DST": "MNL",
+      "GCD": 2190
+    },
+    {
+      "ORG": "BKO",
+      "DST": "IST",
+      "GCD": 4778
+    },
+    {
+      "ORG": "BLL",
+      "DST": "BUD",
+      "GCD": 1157
+    },
+    {
+      "ORG": "BLL",
+      "DST": "GZP",
+      "GCD": 2780
+    },
+    {
+      "ORG": "BLL",
+      "DST": "IST",
+      "GCD": 2149
+    },
+    {
+      "ORG": "BLQ",
+      "DST": "IST",
+      "GCD": 1467
+    },
+    {
+      "ORG": "BLR",
+      "DST": "IST",
+      "GCD": 5658
+    },
+    {
+      "ORG": "BOD",
+      "DST": "IST",
+      "GCD": 2419
+    },
+    {
+      "ORG": "BOG",
+      "DST": "CCS",
+      "GCD": 1024
+    },
+    {
+      "ORG": "BOG",
+      "DST": "IST",
+      "GCD": 10738
+    },
+    {
+      "ORG": "BOM",
+      "DST": "CGK",
+      "GCD": 4637
+    },
+    {
+      "ORG": "BOM",
+      "DST": "IST",
+      "GCD": 4839
+    },
+    {
+      "ORG": "BOS",
+      "DST": "IST",
+      "GCD": 7746
+    },
+    {
+      "ORG": "BOS",
+      "DST": "ORD",
+      "GCD": 1395
+    },
+    {
+      "ORG": "BRE",
+      "DST": "IST",
+      "GCD": 1989
+    },
+    {
+      "ORG": "BRI",
+      "DST": "ALG",
+      "GCD": 1273
+    },
+    {
+      "ORG": "BRI",
+      "DST": "IST",
+      "GCD": 1004
+    },
+    {
+      "ORG": "BRU",
+      "DST": "AYT",
+      "GCD": 2602
+    },
+    {
+      "ORG": "BRU",
+      "DST": "CMN",
+      "GCD": 2182
+    },
+    {
+      "ORG": "BRU",
+      "DST": "ESB",
+      "GCD": 2507
+    },
+    {
+      "ORG": "BRU",
+      "DST": "IST",
+      "GCD": 2146
+    },
+    {
+      "ORG": "BRU",
+      "DST": "SAW",
+      "GCD": 2209
+    },
+    {
+      "ORG": "BSL",
+      "DST": "ASR",
+      "GCD": 2459
+    },
+    {
+      "ORG": "BSL",
+      "DST": "ESB",
+      "GCD": 2197
+    },
+    {
+      "ORG": "BSL",
+      "DST": "GZT",
+      "GCD": 2717
+    },
+    {
+      "ORG": "BSL",
+      "DST": "IST",
+      "GCD": 1823
+    },
+    {
+      "ORG": "BSL",
+      "DST": "SAW",
+      "GCD": 1885
+    },
+    {
+      "ORG": "BSR",
+      "DST": "IST",
+      "GCD": 2074
+    },
+    {
+      "ORG": "BUD",
+      "DST": "DUS",
+      "GCD": 1002
+    },
+    {
+      "ORG": "BUD",
+      "DST": "HAM",
+      "GCD": 951
+    },
+    {
+      "ORG": "BUD",
+      "DST": "IST",
+      "GCD": 1019
+    },
+    {
+      "ORG": "BUD",
+      "DST": "SAW",
+      "GCD": 1082
+    },
+    {
+      "ORG": "BUD",
+      "DST": "TLV",
+      "GCD": 2166
+    },
+    {
+      "ORG": "BUD",
+      "DST": "ZAG",
+      "GCD": 308
+    },
+    {
+      "ORG": "BUS",
+      "DST": "IST",
+      "GCD": 1074
+    },
+    {
+      "ORG": "BUS",
+      "DST": "RZV",
+      "GCD": 79
+    },
+    {
+      "ORG": "CAI",
+      "DST": "IST",
+      "GCD": 1260
+    },
+    {
+      "ORG": "CAI",
+      "DST": "KRT",
+      "GCD": 1614
+    },
+    {
+      "ORG": "CAI",
+      "DST": "MED",
+      "GCD": 1027
+    },
+    {
+      "ORG": "CAN",
+      "DST": "IST",
+      "GCD": 7897
+    },
+    {
+      "ORG": "CCS",
+      "DST": "HAV",
+      "GCD": 2137
+    },
+    {
+      "ORG": "CCS",
+      "DST": "IST",
+      "GCD": 9715
+    },
+    {
+      "ORG": "CCU",
+      "DST": "IST",
+      "GCD": 5885
+    },
+    {
+      "ORG": "CDG",
+      "DST": "ESB",
+      "GCD": 2590
+    },
+    {
+      "ORG": "CDG",
+      "DST": "IST",
+      "GCD": 2218
+    },
+    {
+      "ORG": "CDG",
+      "DST": "SAW",
+      "GCD": 2281
+    },
+    {
+      "ORG": "CEB",
+      "DST": "MNL",
+      "GCD": 565
+    },
+    {
+      "ORG": "CGK",
+      "DST": "IST",
+      "GCD": 9456
+    },
+    {
+      "ORG": "CGN",
+      "DST": "ADA",
+      "GCD": 2709
+    },
+    {
+      "ORG": "CGN",
+      "DST": "ASR",
+      "GCD": 2590
+    },
+    {
+      "ORG": "CGN",
+      "DST": "AYT",
+      "GCD": 2435
+    },
+    {
+      "ORG": "CGN",
+      "DST": "ESB",
+      "GCD": 2329
+    },
+    {
+      "ORG": "CGN",
+      "DST": "EZS",
+      "GCD": 2856
+    },
+    {
+      "ORG": "CGN",
+      "DST": "GZT",
+      "GCD": 2855
+    },
+    {
+      "ORG": "CGN",
+      "DST": "IST",
+      "GCD": 1971
+    },
+    {
+      "ORG": "CGN",
+      "DST": "KYA",
+      "GCD": 2459
+    },
+    {
+      "ORG": "CGN",
+      "DST": "SAW",
+      "GCD": 2034
+    },
+    {
+      "ORG": "CGN",
+      "DST": "SZF",
+      "GCD": 2493
+    },
+    {
+      "ORG": "CGN",
+      "DST": "TZX",
+      "GCD": 2731
+    },
+    {
+      "ORG": "CKY",
+      "DST": "ACC",
+      "GCD": 1547
+    },
+    {
+      "ORG": "CKZ",
+      "DST": "ESB",
+      "GCD": 560
+    },
+    {
+      "ORG": "CLJ",
+      "DST": "IST",
+      "GCD": 734
+    },
+    {
+      "ORG": "CMB",
+      "DST": "DXB",
+      "GCD": 3285
+    },
+    {
+      "ORG": "CMB",
+      "DST": "KWI",
+      "GCD": 4140
+    },
+    {
+      "ORG": "CMB",
+      "DST": "MLE",
+      "GCD": 778
+    },
+    {
+      "ORG": "CMN",
+      "DST": "AYT",
+      "GCD": 3497
+    },
+    {
+      "ORG": "CMN",
+      "DST": "DSS",
+      "GCD": 2281
+    },
+    {
+      "ORG": "CMN",
+      "DST": "IST",
+      "GCD": 3311
+    },
+    {
+      "ORG": "CND",
+      "DST": "IST",
+      "GCD": 344
+    },
+    {
+      "ORG": "CND",
+      "DST": "OTP",
+      "GCD": 191
+    },
+    {
+      "ORG": "COO",
+      "DST": "ABJ",
+      "GCD": 709
+    },
+    {
+      "ORG": "COO",
+      "DST": "IST",
+      "GCD": 4668
+    },
+    {
+      "ORG": "CPH",
+      "DST": "ASR",
+      "GCD": 2527
+    },
+    {
+      "ORG": "CPH",
+      "DST": "AYT",
+      "GCD": 2491
+    },
+    {
+      "ORG": "CPH",
+      "DST": "GZP",
+      "GCD": 2613
+    },
+    {
+      "ORG": "CPH",
+      "DST": "IST",
+      "GCD": 1981
+    },
+    {
+      "ORG": "CPH",
+      "DST": "KYA",
+      "GCD": 2462
+    },
+    {
+      "ORG": "CPH",
+      "DST": "SAW",
+      "GCD": 2040
+    },
+    {
+      "ORG": "CPT",
+      "DST": "IST",
+      "GCD": 8395
+    },
+    {
+      "ORG": "CRK",
+      "DST": "IST",
+      "GCD": 9062
+    },
+    {
+      "ORG": "CTA",
+      "DST": "IST",
+      "GCD": 1250
+    },
+    {
+      "ORG": "CUN",
+      "DST": "IST",
+      "GCD": 10449
+    },
+    {
+      "ORG": "CUN",
+      "DST": "MEX",
+      "GCD": 1286
+    },
+    {
+      "ORG": "CZL",
+      "DST": "IST",
+      "GCD": 1995
+    },
+    {
+      "ORG": "DAC",
+      "DST": "IST",
+      "GCD": 5973
+    },
+    {
+      "ORG": "DAR",
+      "DST": "IST",
+      "GCD": 5437
+    },
+    {
+      "ORG": "DAR",
+      "DST": "ZNZ",
+      "GCD": 73
+    },
+    {
+      "ORG": "DBV",
+      "DST": "IST",
+      "GCD": 880
+    },
+    {
+      "ORG": "DEL",
+      "DST": "DXB",
+      "GCD": 2187
+    },
+    {
+      "ORG": "DEL",
+      "DST": "IST",
+      "GCD": 4574
+    },
+    {
+      "ORG": "DFW",
+      "DST": "IST",
+      "GCD": 10098
+    },
+    {
+      "ORG": "DIY",
+      "DST": "BGW",
+      "GCD": 630
+    },
+    {
+      "ORG": "DIY",
+      "DST": "DUS",
+      "GCD": 3006
+    },
+    {
+      "ORG": "DIY",
+      "DST": "ERZ",
+      "GCD": 244
+    },
+    {
+      "ORG": "DIY",
+      "DST": "ESB",
+      "GCD": 671
+    },
+    {
+      "ORG": "DIY",
+      "DST": "IST",
+      "GCD": 1052
+    },
+    {
+      "ORG": "DIY",
+      "DST": "SAW",
+      "GCD": 995
+    },
+    {
+      "ORG": "DIY",
+      "DST": "TZX",
+      "GCD": 346
+    },
+    {
+      "ORG": "DIY",
+      "DST": "YKO",
+      "GCD": 358
+    },
+    {
+      "ORG": "DLA",
+      "DST": "IST",
+      "GCD": 4544
+    },
+    {
+      "ORG": "DLA",
+      "DST": "NSI",
+      "GCD": 206
+    },
+    {
+      "ORG": "DLM",
+      "DST": "AMM",
+      "GCD": 864
+    },
+    {
+      "ORG": "DLM",
+      "DST": "AYT",
+      "GCD": 180
+    },
+    {
+      "ORG": "DLM",
+      "DST": "BEY",
+      "GCD": 688
+    },
+    {
+      "ORG": "DLM",
+      "DST": "BJV",
+      "GCD": 117
+    },
+    {
+      "ORG": "DLM",
+      "DST": "ESB",
+      "GCD": 527
+    },
+    {
+      "ORG": "DLM",
+      "DST": "EZS",
+      "GCD": 949
+    },
+    {
+      "ORG": "DLM",
+      "DST": "IAD",
+      "GCD": 8736
+    },
+    {
+      "ORG": "DLM",
+      "DST": "IST",
+      "GCD": 506
+    },
+    {
+      "ORG": "DLM",
+      "DST": "LGW",
+      "GCD": 2797
+    },
+    {
+      "ORG": "DLM",
+      "DST": "MAN",
+      "GCD": 3028
+    },
+    {
+      "ORG": "DLM",
+      "DST": "OPO",
+      "GCD": 3260
+    },
+    {
+      "ORG": "DLM",
+      "DST": "SAW",
+      "GCD": 467
+    },
+    {
+      "ORG": "DLM",
+      "DST": "TLV",
+      "GCD": 765
+    },
+    {
+      "ORG": "DLM",
+      "DST": "TZX",
+      "GCD": 1065
+    },
+    {
+      "ORG": "DMM",
+      "DST": "IST",
+      "GCD": 2535
+    },
+    {
+      "ORG": "DMM",
+      "DST": "TZX",
+      "GCD": 1856
+    },
+    {
+      "ORG": "DNZ",
+      "DST": "AYT",
+      "GCD": 138
+    },
+    {
+      "ORG": "DNZ",
+      "DST": "IST",
+      "GCD": 396
+    },
+    {
+      "ORG": "DNZ",
+      "DST": "SAW",
+      "GCD": 347
+    },
+    {
+      "ORG": "DOH",
+      "DST": "AYT",
+      "GCD": 2359
+    },
+    {
+      "ORG": "DOH",
+      "DST": "IST",
+      "GCD": 2757
+    },
+    {
+      "ORG": "DPS",
+      "DST": "IST",
+      "GCD": 10350
+    },
+    {
+      "ORG": "DSS",
+      "DST": "IST",
+      "GCD": 5298
+    },
+    {
+      "ORG": "DUB",
+      "DST": "AYT",
+      "GCD": 3388
+    },
+    {
+      "ORG": "DUB",
+      "DST": "IST",
+      "GCD": 2930
+    },
+    {
+      "ORG": "DUR",
+      "DST": "JNB",
+      "GCD": 478
+    },
+    {
+      "ORG": "DUS",
+      "DST": "ADA",
+      "GCD": 2753
+    },
+    {
+      "ORG": "DUS",
+      "DST": "ASR",
+      "GCD": 2632
+    },
+    {
+      "ORG": "DUS",
+      "DST": "AYT",
+      "GCD": 2482
+    },
+    {
+      "ORG": "DUS",
+      "DST": "CGN",
+      "GCD": 54
+    },
+    {
+      "ORG": "DUS",
+      "DST": "DIY",
+      "GCD": 3006
+    },
+    {
+      "ORG": "DUS",
+      "DST": "ESB",
+      "GCD": 2370
+    },
+    {
+      "ORG": "DUS",
+      "DST": "GZT",
+      "GCD": 2897
+    },
+    {
+      "ORG": "DUS",
+      "DST": "IST",
+      "GCD": 2015
+    },
+    {
+      "ORG": "DUS",
+      "DST": "OGU",
+      "GCD": 2652
+    },
+    {
+      "ORG": "DUS",
+      "DST": "SAW",
+      "GCD": 2078
+    },
+    {
+      "ORG": "DUS",
+      "DST": "SZF",
+      "GCD": 2530
+    },
+    {
+      "ORG": "DUS",
+      "DST": "TZX",
+      "GCD": 2766
+    },
+    {
+      "ORG": "DWC",
+      "DST": "KWI",
+      "GCD": 859
+    },
+    {
+      "ORG": "DXB",
+      "DST": "IST",
+      "GCD": 3030
+    },
+    {
+      "ORG": "DXB",
+      "DST": "SAW",
+      "GCD": 2969
+    },
+    {
+      "ORG": "DYU",
+      "DST": "IST",
+      "GCD": 3410
+    },
+    {
+      "ORG": "EBB",
+      "DST": "IST",
+      "GCD": 4581
+    },
+    {
+      "ORG": "EBB",
+      "DST": "KGL",
+      "GCD": 339
+    },
+    {
+      "ORG": "EBL",
+      "DST": "GZT",
+      "GCD": 585
+    },
+    {
+      "ORG": "EBL",
+      "DST": "IST",
+      "GCD": 1434
+    },
+    {
+      "ORG": "EBL",
+      "DST": "SAW",
+      "GCD": 1376
+    },
+    {
+      "ORG": "ECN",
+      "DST": "ADA",
+      "GCD": 259
+    },
+    {
+      "ORG": "ECN",
+      "DST": "ADB",
+      "GCD": 664
+    },
+    {
+      "ORG": "ECN",
+      "DST": "AYT",
+      "GCD": 310
+    },
+    {
+      "ORG": "ECN",
+      "DST": "ESB",
+      "GCD": 553
+    },
+    {
+      "ORG": "ECN",
+      "DST": "IST",
+      "GCD": 795
+    },
+    {
+      "ORG": "ECN",
+      "DST": "SAW",
+      "GCD": 735
+    },
+    {
+      "ORG": "ECN",
+      "DST": "TZX",
+      "GCD": 851
+    },
+    {
+      "ORG": "EDI",
+      "DST": "AYT",
+      "GCD": 3317
+    },
+    {
+      "ORG": "EDI",
+      "DST": "IST",
+      "GCD": 2836
+    },
+    {
+      "ORG": "EDO",
+      "DST": "ESB",
+      "GCD": 516
+    },
+    {
+      "ORG": "EDO",
+      "DST": "IST",
+      "GCD": 240
+    },
+    {
+      "ORG": "EDO",
+      "DST": "SAW",
+      "GCD": 246
+    },
+    {
+      "ORG": "ERC",
+      "DST": "ERZ",
+      "GCD": 143
+    },
+    {
+      "ORG": "ERC",
+      "DST": "ESB",
+      "GCD": 560
+    },
+    {
+      "ORG": "ERC",
+      "DST": "IST",
+      "GCD": 930
+    },
+    {
+      "ORG": "ERC",
+      "DST": "SAW",
+      "GCD": 878
+    },
+    {
+      "ORG": "ERC",
+      "DST": "SZF",
+      "GCD": 304
+    },
+    {
+      "ORG": "ERC",
+      "DST": "TZX",
+      "GCD": 144
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "ALA",
+      "GCD": 2988
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "ESB",
+      "GCD": 698
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "EZS",
+      "GCD": 221
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "HSA",
+      "GCD": 2289
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "IST",
+      "GCD": 1061
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "SAW",
+      "GCD": 1011
+    },
+    {
+      "ORG": "ERZ",
+      "DST": "YEI",
+      "GCD": 990
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ADA",
+      "GCD": 402
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ADB",
+      "GCD": 544
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ADF",
+      "GCD": 544
+    },
+    {
+      "ORG": "ESB",
+      "DST": "AJI",
+      "GCD": 859
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ALA",
+      "GCD": 3639
+    },
+    {
+      "ORG": "ESB",
+      "DST": "AMM",
+      "GCD": 971
+    },
+    {
+      "ORG": "ESB",
+      "DST": "AMS",
+      "GCD": 2540
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ARN",
+      "GCD": 2414
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ASR",
+      "GCD": 263
+    },
+    {
+      "ORG": "ESB",
+      "DST": "AYT",
+      "GCD": 406
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BAL",
+      "GCD": 744
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BEG",
+      "GCD": 1164
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BER",
+      "GCD": 2015
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BGG",
+      "GCD": 668
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BJV",
+      "GCD": 563
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BRU",
+      "GCD": 2507
+    },
+    {
+      "ORG": "ESB",
+      "DST": "BSL",
+      "GCD": 2197
+    },
+    {
+      "ORG": "ESB",
+      "DST": "CDG",
+      "GCD": 2590
+    },
+    {
+      "ORG": "ESB",
+      "DST": "CGN",
+      "GCD": 2329
+    },
+    {
+      "ORG": "ESB",
+      "DST": "CKZ",
+      "GCD": 560
+    },
+    {
+      "ORG": "ESB",
+      "DST": "DIY",
+      "GCD": 671
+    },
+    {
+      "ORG": "ESB",
+      "DST": "DLM",
+      "GCD": 527
+    },
+    {
+      "ORG": "ESB",
+      "DST": "DUB",
+      "GCD": 3288
+    },
+    {
+      "ORG": "ESB",
+      "DST": "DUS",
+      "GCD": 2370
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ECN",
+      "GCD": 553
+    },
+    {
+      "ORG": "ESB",
+      "DST": "EDO",
+      "GCD": 516
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ERC",
+      "GCD": 560
+    },
+    {
+      "ORG": "ESB",
+      "DST": "ERZ",
+      "GCD": 698
+    },
+    {
+      "ORG": "ESB",
+      "DST": "EZS",
+      "GCD": 568
+    },
+    {
+      "ORG": "ESB",
+      "DST": "FRA",
+      "GCD": 2201
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GNY",
+      "GCD": 611
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GRU",
+      "GCD": 10814
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GVA",
+      "GCD": 2276
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GYD",
+      "GCD": 1448
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GZP",
+      "GCD": 430
+    },
+    {
+      "ORG": "ESB",
+      "DST": "GZT",
+      "GCD": 527
+    },
+    {
+      "ORG": "ESB",
+      "DST": "HAJ",
+      "GCD": 2242
+    },
+    {
+      "ORG": "ESB",
+      "DST": "HAM",
+      "GCD": 2290
+    },
+    {
+      "ORG": "ESB",
+      "DST": "HAN",
+      "GCD": 7088
+    },
+    {
+      "ORG": "ESB",
+      "DST": "HTY",
+      "GCD": 508
+    },
+    {
+      "ORG": "ESB",
+      "DST": "IGD",
+      "GCD": 929
+    },
+    {
+      "ORG": "ESB",
+      "DST": "IST",
+      "GCD": 381
+    },
+    {
+      "ORG": "ESB",
+      "DST": "JED",
+      "GCD": 2127
+    },
+    {
+      "ORG": "ESB",
+      "DST": "KBP",
+      "GCD": 1147
+    },
+    {
+      "ORG": "ESB",
+      "DST": "KCM",
+      "GCD": 448
+    },
+    {
+      "ORG": "ESB",
+      "DST": "KSY",
+      "GCD": 861
+    },
+    {
+      "ORG": "ESB",
+      "DST": "KYA",
+      "GCD": 242
+    },
+    {
+      "ORG": "ESB",
+      "DST": "LHR",
+      "GCD": 2857
+    },
+    {
+      "ORG": "ESB",
+      "DST": "MED",
+      "GCD": 1838
+    },
+    {
+      "ORG": "ESB",
+      "DST": "MLX",
+      "GCD": 478
+    },
+    {
+      "ORG": "ESB",
+      "DST": "MQM",
+      "GCD": 738
+    },
+    {
+      "ORG": "ESB",
+      "DST": "MSR",
+      "GCD": 761
+    },
+    {
+      "ORG": "ESB",
+      "DST": "MUC",
+      "GCD": 1916
+    },
+    {
+      "ORG": "ESB",
+      "DST": "NKT",
+      "GCD": 845
+    },
+    {
+      "ORG": "ESB",
+      "DST": "NQZ",
+      "GCD": 3193
+    },
+    {
+      "ORG": "ESB",
+      "DST": "OGU",
+      "GCD": 441
+    },
+    {
+      "ORG": "ESB",
+      "DST": "RZV",
+      "GCD": 674
+    },
+    {
+      "ORG": "ESB",
+      "DST": "SAW",
+      "GCD": 324
+    },
+    {
+      "ORG": "ESB",
+      "DST": "SIN",
+      "GCD": 8305
+    },
+    {
+      "ORG": "ESB",
+      "DST": "STR",
+      "GCD": 2107
+    },
+    {
+      "ORG": "ESB",
+      "DST": "SXZ",
+      "GCD": 801
+    },
+    {
+      "ORG": "ESB",
+      "DST": "SZF",
+      "GCD": 327
+    },
+    {
+      "ORG": "ESB",
+      "DST": "TLV",
+      "GCD": 917
+    },
+    {
+      "ORG": "ESB",
+      "DST": "TZX",
+      "GCD": 583
+    },
+    {
+      "ORG": "ESB",
+      "DST": "VAN",
+      "GCD": 910
+    },
+    {
+      "ORG": "ESB",
+      "DST": "VIE",
+      "GCD": 1580
+    },
+    {
+      "ORG": "ESB",
+      "DST": "YEI",
+      "GCD": 293
+    },
+    {
+      "ORG": "ESB",
+      "DST": "YKO",
+      "GCD": 1016
+    },
+    {
+      "ORG": "EWR",
+      "DST": "IST",
+      "GCD": 8068
+    },
+    {
+      "ORG": "EWR",
+      "DST": "VIE",
+      "GCD": 6845
+    },
+    {
+      "ORG": "EZE",
+      "DST": "GRU",
+      "GCD": 1721
+    },
+    {
+      "ORG": "EZS",
+      "DST": "AMS",
+      "GCD": 3059
+    },
+    {
+      "ORG": "EZS",
+      "DST": "CGN",
+      "GCD": 2856
+    },
+    {
+      "ORG": "EZS",
+      "DST": "DIY",
+      "GCD": 112
+    },
+    {
+      "ORG": "EZS",
+      "DST": "ESB",
+      "GCD": 568
+    },
+    {
+      "ORG": "EZS",
+      "DST": "FRA",
+      "GCD": 2733
+    },
+    {
+      "ORG": "EZS",
+      "DST": "HAM",
+      "GCD": 2781
+    },
+    {
+      "ORG": "EZS",
+      "DST": "IST",
+      "GCD": 948
+    },
+    {
+      "ORG": "EZS",
+      "DST": "SAW",
+      "GCD": 892
+    },
+    {
+      "ORG": "EZS",
+      "DST": "STR",
+      "GCD": 2649
+    },
+    {
+      "ORG": "FCO",
+      "DST": "IST",
+      "GCD": 1376
+    },
+    {
+      "ORG": "FEG",
+      "DST": "IST",
+      "GCD": 3592
+    },
+    {
+      "ORG": "FIH",
+      "DST": "IST",
+      "GCD": 5233
+    },
+    {
+      "ORG": "FNA",
+      "DST": "CKY",
+      "GCD": 116
+    },
+    {
+      "ORG": "FNA",
+      "DST": "DSS",
+      "GCD": 792
+    },
+    {
+      "ORG": "FNA",
+      "DST": "IST",
+      "GCD": 5483
+    },
+    {
+      "ORG": "FRA",
+      "DST": "ADA",
+      "GCD": 2579
+    },
+    {
+      "ORG": "FRA",
+      "DST": "ADB",
+      "GCD": 1968
+    },
+    {
+      "ORG": "FRA",
+      "DST": "ASR",
+      "GCD": 2463
+    },
+    {
+      "ORG": "FRA",
+      "DST": "AYT",
+      "GCD": 2301
+    },
+    {
+      "ORG": "FRA",
+      "DST": "ESB",
+      "GCD": 2201
+    },
+    {
+      "ORG": "FRA",
+      "DST": "EZS",
+      "GCD": 2733
+    },
+    {
+      "ORG": "FRA",
+      "DST": "HTY",
+      "GCD": 2692
+    },
+    {
+      "ORG": "FRA",
+      "DST": "IST",
+      "GCD": 1841
+    },
+    {
+      "ORG": "FRA",
+      "DST": "LHR",
+      "GCD": 657
+    },
+    {
+      "ORG": "FRA",
+      "DST": "OGU",
+      "GCD": 2496
+    },
+    {
+      "ORG": "FRA",
+      "DST": "SAW",
+      "GCD": 1904
+    },
+    {
+      "ORG": "FRA",
+      "DST": "TZX",
+      "GCD": 2614
+    },
+    {
+      "ORG": "FRU",
+      "DST": "ALA",
+      "GCD": 211
+    },
+    {
+      "ORG": "FRU",
+      "DST": "AYT",
+      "GCD": 3750
+    },
+    {
+      "ORG": "FRU",
+      "DST": "IST",
+      "GCD": 3737
+    },
+    {
+      "ORG": "GDL",
+      "DST": "IST",
+      "GCD": 11572
+    },
+    {
+      "ORG": "GNJ",
+      "DST": "IST",
+      "GCD": 1477
+    },
+    {
+      "ORG": "GNJ",
+      "DST": "NAJ",
+      "GCD": 187
+    },
+    {
+      "ORG": "GNY",
+      "DST": "ADB",
+      "GCD": 1039
+    },
+    {
+      "ORG": "GNY",
+      "DST": "ESB",
+      "GCD": 611
+    },
+    {
+      "ORG": "GNY",
+      "DST": "GZT",
+      "GCD": 123
+    },
+    {
+      "ORG": "GNY",
+      "DST": "IST",
+      "GCD": 988
+    },
+    {
+      "ORG": "GNY",
+      "DST": "SAW",
+      "GCD": 927
+    },
+    {
+      "ORG": "GOT",
+      "DST": "AYT",
+      "GCD": 2681
+    },
+    {
+      "ORG": "GOT",
+      "DST": "IST",
+      "GCD": 2166
+    },
+    {
+      "ORG": "GRU",
+      "DST": "EZE",
+      "GCD": 1721
+    },
+    {
+      "ORG": "GRU",
+      "DST": "IST",
+      "GCD": 10545
+    },
+    {
+      "ORG": "GRU",
+      "DST": "MLA",
+      "GCD": 9173
+    },
+    {
+      "ORG": "GVA",
+      "DST": "ADB",
+      "GCD": 1940
+    },
+    {
+      "ORG": "GVA",
+      "DST": "ASR",
+      "GCD": 2537
+    },
+    {
+      "ORG": "GVA",
+      "DST": "AYT",
+      "GCD": 2293
+    },
+    {
+      "ORG": "GVA",
+      "DST": "ESB",
+      "GCD": 2276
+    },
+    {
+      "ORG": "GVA",
+      "DST": "IST",
+      "GCD": 1897
+    },
+    {
+      "ORG": "GVA",
+      "DST": "MXP",
+      "GCD": 214
+    },
+    {
+      "ORG": "GYD",
+      "DST": "AYT",
+      "GCD": 1717
+    },
+    {
+      "ORG": "GYD",
+      "DST": "CAN",
+      "GCD": 6138
+    },
+    {
+      "ORG": "GYD",
+      "DST": "ESB",
+      "GCD": 1448
+    },
+    {
+      "ORG": "GYD",
+      "DST": "FRU",
+      "GCD": 2044
+    },
+    {
+      "ORG": "GYD",
+      "DST": "IST",
+      "GCD": 1794
+    },
+    {
+      "ORG": "GYD",
+      "DST": "SAW",
+      "GCD": 1750
+    },
+    {
+      "ORG": "GYD",
+      "DST": "TZX",
+      "GCD": 868
+    },
+    {
+      "ORG": "GZP",
+      "DST": "AYT",
+      "GCD": 149
+    },
+    {
+      "ORG": "GZP",
+      "DST": "CPH",
+      "GCD": 2613
+    },
+    {
+      "ORG": "GZP",
+      "DST": "ESB",
+      "GCD": 430
+    },
+    {
+      "ORG": "GZP",
+      "DST": "IST",
+      "GCD": 632
+    },
+    {
+      "ORG": "GZP",
+      "DST": "OSL",
+      "GCD": 3057
+    },
+    {
+      "ORG": "GZT",
+      "DST": "ADA",
+      "GCD": 196
+    },
+    {
+      "ORG": "GZT",
+      "DST": "ADB",
+      "GCD": 923
+    },
+    {
+      "ORG": "GZT",
+      "DST": "BER",
+      "GCD": 2538
+    },
+    {
+      "ORG": "GZT",
+      "DST": "BGW",
+      "GCD": 739
+    },
+    {
+      "ORG": "GZT",
+      "DST": "BSL",
+      "GCD": 2717
+    },
+    {
+      "ORG": "GZT",
+      "DST": "CGN",
+      "GCD": 2855
+    },
+    {
+      "ORG": "GZT",
+      "DST": "DUS",
+      "GCD": 2897
+    },
+    {
+      "ORG": "GZT",
+      "DST": "EBL",
+      "GCD": 585
+    },
+    {
+      "ORG": "GZT",
+      "DST": "ESB",
+      "GCD": 527
+    },
+    {
+      "ORG": "GZT",
+      "DST": "HAJ",
+      "GCD": 2767
+    },
+    {
+      "ORG": "GZT",
+      "DST": "HAM",
+      "GCD": 2812
+    },
+    {
+      "ORG": "GZT",
+      "DST": "IST",
+      "GCD": 894
+    },
+    {
+      "ORG": "GZT",
+      "DST": "MUC",
+      "GCD": 2441
+    },
+    {
+      "ORG": "GZT",
+      "DST": "SAW",
+      "GCD": 833
+    },
+    {
+      "ORG": "GZT",
+      "DST": "STR",
+      "GCD": 2631
+    },
+    {
+      "ORG": "GZT",
+      "DST": "VIE",
+      "GCD": 2107
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "ADA",
+      "GCD": 2634
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "ASR",
+      "GCD": 2500
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "AYT",
+      "GCD": 2389
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "BER",
+      "GCD": 260
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "ESB",
+      "GCD": 2242
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "GZT",
+      "GCD": 2767
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "IST",
+      "GCD": 1902
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "SAW",
+      "GCD": 1965
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "SZF",
+      "GCD": 2377
+    },
+    {
+      "ORG": "HAJ",
+      "DST": "TZX",
+      "GCD": 2603
+    },
+    {
+      "ORG": "HAM",
+      "DST": "ADA",
+      "GCD": 2686
+    },
+    {
+      "ORG": "HAM",
+      "DST": "ASR",
+      "GCD": 2545
+    },
+    {
+      "ORG": "HAM",
+      "DST": "AYT",
+      "GCD": 2456
+    },
+    {
+      "ORG": "HAM",
+      "DST": "BER",
+      "GCD": 275
+    },
+    {
+      "ORG": "HAM",
+      "DST": "ESB",
+      "GCD": 2290
+    },
+    {
+      "ORG": "HAM",
+      "DST": "EZS",
+      "GCD": 2781
+    },
+    {
+      "ORG": "HAM",
+      "DST": "GZT",
+      "GCD": 2812
+    },
+    {
+      "ORG": "HAM",
+      "DST": "HAJ",
+      "GCD": 132
+    },
+    {
+      "ORG": "HAM",
+      "DST": "IST",
+      "GCD": 1960
+    },
+    {
+      "ORG": "HAM",
+      "DST": "OGU",
+      "GCD": 2523
+    },
+    {
+      "ORG": "HAM",
+      "DST": "SAW",
+      "GCD": 2023
+    },
+    {
+      "ORG": "HAM",
+      "DST": "SZF",
+      "GCD": 2409
+    },
+    {
+      "ORG": "HAN",
+      "DST": "IST",
+      "GCD": 7428
+    },
+    {
+      "ORG": "HAN",
+      "DST": "KUL",
+      "GCD": 2092
+    },
+    {
+      "ORG": "HAV",
+      "DST": "BCN",
+      "GCD": 7918
+    },
+    {
+      "ORG": "HAV",
+      "DST": "CUN",
+      "GCD": 510
+    },
+    {
+      "ORG": "HAV",
+      "DST": "IST",
+      "GCD": 9974
+    },
+    {
+      "ORG": "HBE",
+      "DST": "CAI",
+      "GCD": 186
+    },
+    {
+      "ORG": "HBE",
+      "DST": "IST",
+      "GCD": 1152
+    },
+    {
+      "ORG": "HEL",
+      "DST": "IST",
+      "GCD": 2135
+    },
+    {
+      "ORG": "HKG",
+      "DST": "BKK",
+      "GCD": 1688
+    },
+    {
+      "ORG": "HKG",
+      "DST": "IST",
+      "GCD": 8020
+    },
+    {
+      "ORG": "HKT",
+      "DST": "IST",
+      "GCD": 7714
+    },
+    {
+      "ORG": "HKT",
+      "DST": "KHI",
+      "GCD": 3793
+    },
+    {
+      "ORG": "HND",
+      "DST": "IST",
+      "GCD": 8979
+    },
+    {
+      "ORG": "HRG",
+      "DST": "IST",
+      "GCD": 1630
+    },
+    {
+      "ORG": "HRK",
+      "DST": "IST",
+      "GCD": 1126
+    },
+    {
+      "ORG": "HSA",
+      "DST": "IST",
+      "GCD": 3248
+    },
+    {
+      "ORG": "HTY",
+      "DST": "ADA",
+      "GCD": 113
+    },
+    {
+      "ORG": "HTY",
+      "DST": "ESB",
+      "GCD": 508
+    },
+    {
+      "ORG": "HTY",
+      "DST": "FRA",
+      "GCD": 2692
+    },
+    {
+      "ORG": "HTY",
+      "DST": "IST",
+      "GCD": 852
+    },
+    {
+      "ORG": "HTY",
+      "DST": "SAW",
+      "GCD": 789
+    },
+    {
+      "ORG": "IAD",
+      "DST": "IST",
+      "GCD": 8408
+    },
+    {
+      "ORG": "IAD",
+      "DST": "JFK",
+      "GCD": 367
+    },
+    {
+      "ORG": "IAH",
+      "DST": "IST",
+      "GCD": 10253
+    },
+    {
+      "ORG": "ICN",
+      "DST": "IST",
+      "GCD": 7943
+    },
+    {
+      "ORG": "IFN",
+      "DST": "IST",
+      "GCD": 2256
+    },
+    {
+      "ORG": "IGD",
+      "DST": "ESB",
+      "GCD": 929
+    },
+    {
+      "ORG": "IGD",
+      "DST": "IST",
+      "GCD": 1288
+    },
+    {
+      "ORG": "IKA",
+      "DST": "ADB",
+      "GCD": 2157
+    },
+    {
+      "ORG": "IKA",
+      "DST": "ERZ",
+      "GCD": 1014
+    },
+    {
+      "ORG": "IKA",
+      "DST": "ESB",
+      "GCD": 1679
+    },
+    {
+      "ORG": "IKA",
+      "DST": "IST",
+      "GCD": 2057
+    },
+    {
+      "ORG": "IKA",
+      "DST": "SAW",
+      "GCD": 2003
+    },
+    {
+      "ORG": "ISB",
+      "DST": "GYD",
+      "GCD": 2160
+    },
+    {
+      "ORG": "ISB",
+      "DST": "IST",
+      "GCD": 3952
+    },
+    {
+      "ORG": "ISE",
+      "DST": "AYT",
+      "GCD": 113
+    },
+    {
+      "ORG": "ISE",
+      "DST": "IST",
+      "GCD": 404
+    },
+    {
+      "ORG": "ISL",
+      "DST": "SAW",
+      "GCD": 43
+    },
+    {
+      "ORG": "ISL",
+      "DST": "TLV",
+      "GCD": 1133
+    },
+    {
+      "ORG": "IST",
+      "DST": "ABJ",
+      "GCD": 5143
+    },
+    {
+      "ORG": "IST",
+      "DST": "ABV",
+      "GCD": 4153
+    },
+    {
+      "ORG": "IST",
+      "DST": "ACC",
+      "GCD": 4884
+    },
+    {
+      "ORG": "IST",
+      "DST": "ADA",
+      "GCD": 739
+    },
+    {
+      "ORG": "IST",
+      "DST": "ADB",
+      "GCD": 357
+    },
+    {
+      "ORG": "IST",
+      "DST": "ADD",
+      "GCD": 3713
+    },
+    {
+      "ORG": "IST",
+      "DST": "ADF",
+      "GCD": 924
+    },
+    {
+      "ORG": "IST",
+      "DST": "AER",
+      "GCD": 954
+    },
+    {
+      "ORG": "IST",
+      "DST": "AJI",
+      "GCD": 1223
+    },
+    {
+      "ORG": "IST",
+      "DST": "ALA",
+      "GCD": 3933
+    },
+    {
+      "ORG": "IST",
+      "DST": "ALG",
+      "GCD": 2261
+    },
+    {
+      "ORG": "IST",
+      "DST": "AMM",
+      "GCD": 1242
+    },
+    {
+      "ORG": "IST",
+      "DST": "AMS",
+      "GCD": 2188
+    },
+    {
+      "ORG": "IST",
+      "DST": "ARN",
+      "GCD": 2178
+    },
+    {
+      "ORG": "IST",
+      "DST": "ASB",
+      "GCD": 2556
+    },
+    {
+      "ORG": "IST",
+      "DST": "ASM",
+      "GCD": 3042
+    },
+    {
+      "ORG": "IST",
+      "DST": "ASR",
+      "GCD": 640
+    },
+    {
+      "ORG": "IST",
+      "DST": "ATH",
+      "GCD": 554
+    },
+    {
+      "ORG": "IST",
+      "DST": "ATL",
+      "GCD": 9267
+    },
+    {
+      "ORG": "IST",
+      "DST": "AUH",
+      "GCD": 3040
+    },
+    {
+      "ORG": "IST",
+      "DST": "AYT",
+      "GCD": 517
+    },
+    {
+      "ORG": "IST",
+      "DST": "BAH",
+      "GCD": 2609
+    },
+    {
+      "ORG": "IST",
+      "DST": "BAL",
+      "GCD": 1124
+    },
+    {
+      "ORG": "IST",
+      "DST": "BEG",
+      "GCD": 792
+    },
+    {
+      "ORG": "IST",
+      "DST": "BER",
+      "GCD": 1689
+    },
+    {
+      "ORG": "IST",
+      "DST": "BEY",
+      "GCD": 1019
+    },
+    {
+      "ORG": "IST",
+      "DST": "BGG",
+      "GCD": 1045
+    },
+    {
+      "ORG": "IST",
+      "DST": "BGW",
+      "GCD": 1633
+    },
+    {
+      "ORG": "IST",
+      "DST": "BHK",
+      "GCD": 3012
+    },
+    {
+      "ORG": "IST",
+      "DST": "BHX",
+      "GCD": 2609
+    },
+    {
+      "ORG": "IST",
+      "DST": "BJV",
+      "GCD": 456
+    },
+    {
+      "ORG": "IST",
+      "DST": "BKK",
+      "GCD": 7520
+    },
+    {
+      "ORG": "IST",
+      "DST": "BLQ",
+      "GCD": 1467
+    },
+    {
+      "ORG": "IST",
+      "DST": "BOD",
+      "GCD": 2419
+    },
+    {
+      "ORG": "IST",
+      "DST": "BOM",
+      "GCD": 4839
+    },
+    {
+      "ORG": "IST",
+      "DST": "BOS",
+      "GCD": 7746
+    },
+    {
+      "ORG": "IST",
+      "DST": "BRE",
+      "GCD": 1989
+    },
+    {
+      "ORG": "IST",
+      "DST": "BRI",
+      "GCD": 1004
+    },
+    {
+      "ORG": "IST",
+      "DST": "BRU",
+      "GCD": 2146
+    },
+    {
+      "ORG": "IST",
+      "DST": "BSL",
+      "GCD": 1823
+    },
+    {
+      "ORG": "IST",
+      "DST": "BSR",
+      "GCD": 2074
+    },
+    {
+      "ORG": "IST",
+      "DST": "BUD",
+      "GCD": 1019
+    },
+    {
+      "ORG": "IST",
+      "DST": "BUS",
+      "GCD": 1074
+    },
+    {
+      "ORG": "IST",
+      "DST": "CAI",
+      "GCD": 1260
+    },
+    {
+      "ORG": "IST",
+      "DST": "CAN",
+      "GCD": 7897
+    },
+    {
+      "ORG": "IST",
+      "DST": "CCS",
+      "GCD": 9715
+    },
+    {
+      "ORG": "IST",
+      "DST": "CDG",
+      "GCD": 2218
+    },
+    {
+      "ORG": "IST",
+      "DST": "CGK",
+      "GCD": 9456
+    },
+    {
+      "ORG": "IST",
+      "DST": "CGN",
+      "GCD": 1971
+    },
+    {
+      "ORG": "IST",
+      "DST": "CKY",
+      "GCD": 5434
+    },
+    {
+      "ORG": "IST",
+      "DST": "CLJ",
+      "GCD": 734
+    },
+    {
+      "ORG": "IST",
+      "DST": "CMB",
+      "GCD": 6294
+    },
+    {
+      "ORG": "IST",
+      "DST": "CMN",
+      "GCD": 3311
+    },
+    {
+      "ORG": "IST",
+      "DST": "CND",
+      "GCD": 344
+    },
+    {
+      "ORG": "IST",
+      "DST": "CPH",
+      "GCD": 1981
+    },
+    {
+      "ORG": "IST",
+      "DST": "CPT",
+      "GCD": 8395
+    },
+    {
+      "ORG": "IST",
+      "DST": "CTA",
+      "GCD": 1250
+    },
+    {
+      "ORG": "IST",
+      "DST": "CUN",
+      "GCD": 10449
+    },
+    {
+      "ORG": "IST",
+      "DST": "CZL",
+      "GCD": 1995
+    },
+    {
+      "ORG": "IST",
+      "DST": "DAC",
+      "GCD": 5973
+    },
+    {
+      "ORG": "IST",
+      "DST": "DAR",
+      "GCD": 5437
+    },
+    {
+      "ORG": "IST",
+      "DST": "DEL",
+      "GCD": 4574
+    },
+    {
+      "ORG": "IST",
+      "DST": "DFW",
+      "GCD": 10098
+    },
+    {
+      "ORG": "IST",
+      "DST": "DIY",
+      "GCD": 1052
+    },
+    {
+      "ORG": "IST",
+      "DST": "DLA",
+      "GCD": 4544
+    },
+    {
+      "ORG": "IST",
+      "DST": "DLM",
+      "GCD": 506
+    },
+    {
+      "ORG": "IST",
+      "DST": "DMM",
+      "GCD": 2535
+    },
+    {
+      "ORG": "IST",
+      "DST": "DNZ",
+      "GCD": 396
+    },
+    {
+      "ORG": "IST",
+      "DST": "DOH",
+      "GCD": 2757
+    },
+    {
+      "ORG": "IST",
+      "DST": "DPS",
+      "GCD": 10350
+    },
+    {
+      "ORG": "IST",
+      "DST": "DSS",
+      "GCD": 5298
+    },
+    {
+      "ORG": "IST",
+      "DST": "DUB",
+      "GCD": 2930
+    },
+    {
+      "ORG": "IST",
+      "DST": "DUR",
+      "GCD": 7852
+    },
+    {
+      "ORG": "IST",
+      "DST": "DUS",
+      "GCD": 2015
+    },
+    {
+      "ORG": "IST",
+      "DST": "DXB",
+      "GCD": 3030
+    },
+    {
+      "ORG": "IST",
+      "DST": "EBB",
+      "GCD": 4581
+    },
+    {
+      "ORG": "IST",
+      "DST": "EBL",
+      "GCD": 1434
+    },
+    {
+      "ORG": "IST",
+      "DST": "ECN",
+      "GCD": 795
+    },
+    {
+      "ORG": "IST",
+      "DST": "EDI",
+      "GCD": 2836
+    },
+    {
+      "ORG": "IST",
+      "DST": "EDO",
+      "GCD": 240
+    },
+    {
+      "ORG": "IST",
+      "DST": "ERC",
+      "GCD": 930
+    },
+    {
+      "ORG": "IST",
+      "DST": "ERZ",
+      "GCD": 1061
+    },
+    {
+      "ORG": "IST",
+      "DST": "ESB",
+      "GCD": 381
+    },
+    {
+      "ORG": "IST",
+      "DST": "EWR",
+      "GCD": 8068
+    },
+    {
+      "ORG": "IST",
+      "DST": "EZS",
+      "GCD": 948
+    },
+    {
+      "ORG": "IST",
+      "DST": "FCO",
+      "GCD": 1376
+    },
+    {
+      "ORG": "IST",
+      "DST": "FEG",
+      "GCD": 3592
+    },
+    {
+      "ORG": "IST",
+      "DST": "FIH",
+      "GCD": 5233
+    },
+    {
+      "ORG": "IST",
+      "DST": "FNA",
+      "GCD": 5483
+    },
+    {
+      "ORG": "IST",
+      "DST": "FRA",
+      "GCD": 1841
+    },
+    {
+      "ORG": "IST",
+      "DST": "FRU",
+      "GCD": 3737
+    },
+    {
+      "ORG": "IST",
+      "DST": "GNJ",
+      "GCD": 1477
+    },
+    {
+      "ORG": "IST",
+      "DST": "GNY",
+      "GCD": 988
+    },
+    {
+      "ORG": "IST",
+      "DST": "GOT",
+      "GCD": 2166
+    },
+    {
+      "ORG": "IST",
+      "DST": "GRU",
+      "GCD": 10545
+    },
+    {
+      "ORG": "IST",
+      "DST": "GVA",
+      "GCD": 1897
+    },
+    {
+      "ORG": "IST",
+      "DST": "GYD",
+      "GCD": 1794
+    },
+    {
+      "ORG": "IST",
+      "DST": "GZP",
+      "GCD": 632
+    },
+    {
+      "ORG": "IST",
+      "DST": "GZT",
+      "GCD": 894
+    },
+    {
+      "ORG": "IST",
+      "DST": "HAJ",
+      "GCD": 1902
+    },
+    {
+      "ORG": "IST",
+      "DST": "HAM",
+      "GCD": 1960
+    },
+    {
+      "ORG": "IST",
+      "DST": "HAN",
+      "GCD": 7428
+    },
+    {
+      "ORG": "IST",
+      "DST": "HEL",
+      "GCD": 2135
+    },
+    {
+      "ORG": "IST",
+      "DST": "HKG",
+      "GCD": 8020
+    },
+    {
+      "ORG": "IST",
+      "DST": "HKT",
+      "GCD": 7714
+    },
+    {
+      "ORG": "IST",
+      "DST": "HND",
+      "GCD": 8979
+    },
+    {
+      "ORG": "IST",
+      "DST": "HRK",
+      "GCD": 1126
+    },
+    {
+      "ORG": "IST",
+      "DST": "HSA",
+      "GCD": 3248
+    },
+    {
+      "ORG": "IST",
+      "DST": "HTY",
+      "GCD": 852
+    },
+    {
+      "ORG": "IST",
+      "DST": "IAD",
+      "GCD": 8408
+    },
+    {
+      "ORG": "IST",
+      "DST": "IAH",
+      "GCD": 10253
+    },
+    {
+      "ORG": "IST",
+      "DST": "ICN",
+      "GCD": 7943
+    },
+    {
+      "ORG": "IST",
+      "DST": "IFN",
+      "GCD": 2256
+    },
+    {
+      "ORG": "IST",
+      "DST": "IGD",
+      "GCD": 1288
+    },
+    {
+      "ORG": "IST",
+      "DST": "ISB",
+      "GCD": 3952
+    },
+    {
+      "ORG": "IST",
+      "DST": "ISE",
+      "GCD": 404
+    },
+    {
+      "ORG": "IST",
+      "DST": "ISU",
+      "GCD": 1577
+    },
+    {
+      "ORG": "IST",
+      "DST": "JED",
+      "GCD": 2383
+    },
+    {
+      "ORG": "IST",
+      "DST": "JFK",
+      "GCD": 8047
+    },
+    {
+      "ORG": "IST",
+      "DST": "JIB",
+      "GCD": 3582
+    },
+    {
+      "ORG": "IST",
+      "DST": "JNB",
+      "GCD": 7463
+    },
+    {
+      "ORG": "IST",
+      "DST": "JUB",
+      "GCD": 4042
+    },
+    {
+      "ORG": "IST",
+      "DST": "KBP",
+      "GCD": 1022
+    },
+    {
+      "ORG": "IST",
+      "DST": "KCM",
+      "GCD": 819
+    },
+    {
+      "ORG": "IST",
+      "DST": "KFS",
+      "GCD": 423
+    },
+    {
+      "ORG": "IST",
+      "DST": "KHI",
+      "GCD": 3976
+    },
+    {
+      "ORG": "IST",
+      "DST": "KIK",
+      "GCD": 1499
+    },
+    {
+      "ORG": "IST",
+      "DST": "KIV",
+      "GCD": 629
+    },
+    {
+      "ORG": "IST",
+      "DST": "KRT",
+      "GCD": 2870
+    },
+    {
+      "ORG": "IST",
+      "DST": "KRW",
+      "GCD": 2050
+    },
+    {
+      "ORG": "IST",
+      "DST": "KSY",
+      "GCD": 1212
+    },
+    {
+      "ORG": "IST",
+      "DST": "KTM",
+      "GCD": 5316
+    },
+    {
+      "ORG": "IST",
+      "DST": "KUL",
+      "GCD": 8390
+    },
+    {
+      "ORG": "IST",
+      "DST": "KWI",
+      "GCD": 2193
+    },
+    {
+      "ORG": "IST",
+      "DST": "KYA",
+      "GCD": 491
+    },
+    {
+      "ORG": "IST",
+      "DST": "KZN",
+      "GCD": 2186
+    },
+    {
+      "ORG": "IST",
+      "DST": "KZR",
+      "GCD": 267
+    },
+    {
+      "ORG": "IST",
+      "DST": "LAD",
+      "GCD": 5773
+    },
+    {
+      "ORG": "IST",
+      "DST": "LAX",
+      "GCD": 11026
+    },
+    {
+      "ORG": "IST",
+      "DST": "LBV",
+      "GCD": 4921
+    },
+    {
+      "ORG": "IST",
+      "DST": "LED",
+      "GCD": 2064
+    },
+    {
+      "ORG": "IST",
+      "DST": "LEJ",
+      "GCD": 1693
+    },
+    {
+      "ORG": "IST",
+      "DST": "LGW",
+      "GCD": 2466
+    },
+    {
+      "ORG": "IST",
+      "DST": "LHE",
+      "GCD": 4186
+    },
+    {
+      "ORG": "IST",
+      "DST": "LHR",
+      "GCD": 2494
+    },
+    {
+      "ORG": "IST",
+      "DST": "LIS",
+      "GCD": 3220
+    },
+    {
+      "ORG": "IST",
+      "DST": "LJU",
+      "GCD": 1273
+    },
+    {
+      "ORG": "IST",
+      "DST": "LOS",
+      "GCD": 4596
+    },
+    {
+      "ORG": "IST",
+      "DST": "LUX",
+      "GCD": 1982
+    },
+    {
+      "ORG": "IST",
+      "DST": "LWO",
+      "GCD": 1020
+    },
+    {
+      "ORG": "IST",
+      "DST": "LYS",
+      "GCD": 1969
+    },
+    {
+      "ORG": "IST",
+      "DST": "MAD",
+      "GCD": 2709
+    },
+    {
+      "ORG": "IST",
+      "DST": "MAN",
+      "GCD": 2672
+    },
+    {
+      "ORG": "IST",
+      "DST": "MCT",
+      "GCD": 3373
+    },
+    {
+      "ORG": "IST",
+      "DST": "MED",
+      "GCD": 2115
+    },
+    {
+      "ORG": "IST",
+      "DST": "MGQ",
+      "GCD": 4655
+    },
+    {
+      "ORG": "IST",
+      "DST": "MIA",
+      "GCD": 9603
+    },
+    {
+      "ORG": "IST",
+      "DST": "MLA",
+      "GCD": 1379
+    },
+    {
+      "ORG": "IST",
+      "DST": "MLE",
+      "GCD": 6059
+    },
+    {
+      "ORG": "IST",
+      "DST": "MLX",
+      "GCD": 859
+    },
+    {
+      "ORG": "IST",
+      "DST": "MNL",
+      "GCD": 9148
+    },
+    {
+      "ORG": "IST",
+      "DST": "MQM",
+      "GCD": 1119
+    },
+    {
+      "ORG": "IST",
+      "DST": "MRS",
+      "GCD": 1947
+    },
+    {
+      "ORG": "IST",
+      "DST": "MRU",
+      "GCD": 7456
+    },
+    {
+      "ORG": "IST",
+      "DST": "MSQ",
+      "GCD": 1403
+    },
+    {
+      "ORG": "IST",
+      "DST": "MSR",
+      "GCD": 1137
+    },
+    {
+      "ORG": "IST",
+      "DST": "MUC",
+      "GCD": 1550
+    },
+    {
+      "ORG": "IST",
+      "DST": "MXP",
+      "GCD": 1686
+    },
+    {
+      "ORG": "IST",
+      "DST": "MZH",
+      "GCD": 572
+    },
+    {
+      "ORG": "IST",
+      "DST": "NAJ",
+      "GCD": 1439
+    },
+    {
+      "ORG": "IST",
+      "DST": "NAP",
+      "GCD": 1214
+    },
+    {
+      "ORG": "IST",
+      "DST": "NAV",
+      "GCD": 567
+    },
+    {
+      "ORG": "IST",
+      "DST": "NBO",
+      "GCD": 4789
+    },
+    {
+      "ORG": "IST",
+      "DST": "NCE",
+      "GCD": 1785
+    },
+    {
+      "ORG": "IST",
+      "DST": "NJF",
+      "GCD": 1734
+    },
+    {
+      "ORG": "IST",
+      "DST": "NKT",
+      "GCD": 1226
+    },
+    {
+      "ORG": "IST",
+      "DST": "NLV",
+      "GCD": 691
+    },
+    {
+      "ORG": "IST",
+      "DST": "NOP",
+      "GCD": 534
+    },
+    {
+      "ORG": "IST",
+      "DST": "NQZ",
+      "GCD": 3419
+    },
+    {
+      "ORG": "IST",
+      "DST": "NRT",
+      "GCD": 9001
+    },
+    {
+      "ORG": "IST",
+      "DST": "NSI",
+      "GCD": 4500
+    },
+    {
+      "ORG": "IST",
+      "DST": "NUE",
+      "GCD": 1653
+    },
+    {
+      "ORG": "IST",
+      "DST": "ODS",
+      "GCD": 594
+    },
+    {
+      "ORG": "IST",
+      "DST": "OGU",
+      "GCD": 785
+    },
+    {
+      "ORG": "IST",
+      "DST": "ONQ",
+      "GCD": 281
+    },
+    {
+      "ORG": "IST",
+      "DST": "OPO",
+      "GCD": 3112
+    },
+    {
+      "ORG": "IST",
+      "DST": "ORD",
+      "GCD": 8808
+    },
+    {
+      "ORG": "IST",
+      "DST": "ORN",
+      "GCD": 2625
+    },
+    {
+      "ORG": "IST",
+      "DST": "OSL",
+      "GCD": 2428
+    },
+    {
+      "ORG": "IST",
+      "DST": "OTP",
+      "GCD": 425
+    },
+    {
+      "ORG": "IST",
+      "DST": "OZH",
+      "GCD": 899
+    },
+    {
+      "ORG": "IST",
+      "DST": "PEK",
+      "GCD": 7078
+    },
+    {
+      "ORG": "IST",
+      "DST": "PRG",
+      "GCD": 1491
+    },
+    {
+      "ORG": "IST",
+      "DST": "PTY",
+      "GCD": 10830
+    },
+    {
+      "ORG": "IST",
+      "DST": "RAK",
+      "GCD": 3438
+    },
+    {
+      "ORG": "IST",
+      "DST": "RIX",
+      "GCD": 1774
+    },
+    {
+      "ORG": "IST",
+      "DST": "ROV",
+      "GCD": 1126
+    },
+    {
+      "ORG": "IST",
+      "DST": "RUH",
+      "GCD": 2456
+    },
+    {
+      "ORG": "IST",
+      "DST": "RZV",
+      "GCD": 1014
+    },
+    {
+      "ORG": "IST",
+      "DST": "SAW",
+      "GCD": 63
+    },
+    {
+      "ORG": "IST",
+      "DST": "SCO",
+      "GCD": 1852
+    },
+    {
+      "ORG": "IST",
+      "DST": "SEA",
+      "GCD": 9771
+    },
+    {
+      "ORG": "IST",
+      "DST": "SFO",
+      "GCD": 10790
+    },
+    {
+      "ORG": "IST",
+      "DST": "SGN",
+      "GCD": 8217
+    },
+    {
+      "ORG": "IST",
+      "DST": "SHJ",
+      "GCD": 3036
+    },
+    {
+      "ORG": "IST",
+      "DST": "SIN",
+      "GCD": 8680
+    },
+    {
+      "ORG": "IST",
+      "DST": "SJJ",
+      "GCD": 900
+    },
+    {
+      "ORG": "IST",
+      "DST": "SKD",
+      "GCD": 3221
+    },
+    {
+      "ORG": "IST",
+      "DST": "SKG",
+      "GCD": 493
+    },
+    {
+      "ORG": "IST",
+      "DST": "SOF",
+      "GCD": 470
+    },
+    {
+      "ORG": "IST",
+      "DST": "STR",
+      "GCD": 1739
+    },
+    {
+      "ORG": "IST",
+      "DST": "SVO",
+      "GCD": 1752
+    },
+    {
+      "ORG": "IST",
+      "DST": "SVX",
+      "GCD": 2866
+    },
+    {
+      "ORG": "IST",
+      "DST": "SXB",
+      "GCD": 1844
+    },
+    {
+      "ORG": "IST",
+      "DST": "SXZ",
+      "GCD": 1181
+    },
+    {
+      "ORG": "IST",
+      "DST": "SZF",
+      "GCD": 655
+    },
+    {
+      "ORG": "IST",
+      "DST": "SZG",
+      "GCD": 1442
+    },
+    {
+      "ORG": "IST",
+      "DST": "TAS",
+      "GCD": 3365
+    },
+    {
+      "ORG": "IST",
+      "DST": "TBS",
+      "GCD": 1353
+    },
+    {
+      "ORG": "IST",
+      "DST": "TEQ",
+      "GCD": 71
+    },
+    {
+      "ORG": "IST",
+      "DST": "TJK",
+      "GCD": 652
+    },
+    {
+      "ORG": "IST",
+      "DST": "TLL",
+      "GCD": 2036
+    },
+    {
+      "ORG": "IST",
+      "DST": "TLS",
+      "GCD": 2257
+    },
+    {
+      "ORG": "IST",
+      "DST": "TLV",
+      "GCD": 1165
+    },
+    {
+      "ORG": "IST",
+      "DST": "TPE",
+      "GCD": 8413
+    },
+    {
+      "ORG": "IST",
+      "DST": "TUN",
+      "GCD": 1672
+    },
+    {
+      "ORG": "IST",
+      "DST": "TZX",
+      "GCD": 927
+    },
+    {
+      "ORG": "IST",
+      "DST": "UBN",
+      "GCD": 5987
+    },
+    {
+      "ORG": "IST",
+      "DST": "UGC",
+      "GCD": 2651
+    },
+    {
+      "ORG": "IST",
+      "DST": "VAN",
+      "GCD": 1285
+    },
+    {
+      "ORG": "IST",
+      "DST": "VAR",
+      "GCD": 231
+    },
+    {
+      "ORG": "IST",
+      "DST": "VAS",
+      "GCD": 710
+    },
+    {
+      "ORG": "IST",
+      "DST": "VCE",
+      "GCD": 1406
+    },
+    {
+      "ORG": "IST",
+      "DST": "VIE",
+      "GCD": 1225
+    },
+    {
+      "ORG": "IST",
+      "DST": "VKO",
+      "GCD": 1710
+    },
+    {
+      "ORG": "IST",
+      "DST": "WAW",
+      "GCD": 1347
+    },
+    {
+      "ORG": "IST",
+      "DST": "YEI",
+      "GCD": 132
+    },
+    {
+      "ORG": "IST",
+      "DST": "YKO",
+      "GCD": 1395
+    },
+    {
+      "ORG": "IST",
+      "DST": "YUL",
+      "GCD": 7707
+    },
+    {
+      "ORG": "IST",
+      "DST": "YVR",
+      "GCD": 9613
+    },
+    {
+      "ORG": "IST",
+      "DST": "YYZ",
+      "GCD": 8193
+    },
+    {
+      "ORG": "IST",
+      "DST": "ZAG",
+      "GCD": 1137
+    },
+    {
+      "ORG": "IST",
+      "DST": "ZNZ",
+      "GCD": 5366
+    },
+    {
+      "ORG": "IST",
+      "DST": "ZRH",
+      "GCD": 1744
+    },
+    {
+      "ORG": "ISU",
+      "DST": "DIY",
+      "GCD": 525
+    },
+    {
+      "ORG": "ISU",
+      "DST": "IST",
+      "GCD": 1577
+    },
+    {
+      "ORG": "ISU",
+      "DST": "MLX",
+      "GCD": 717
+    },
+    {
+      "ORG": "JAN",
+      "DST": "IST",
+      "GCD": 9733
+    },
+    {
+      "ORG": "JED",
+      "DST": "ESB",
+      "GCD": 2127
+    },
+    {
+      "ORG": "JED",
+      "DST": "IST",
+      "GCD": 2383
+    },
+    {
+      "ORG": "JED",
+      "DST": "MED",
+      "GCD": 323
+    },
+    {
+      "ORG": "JED",
+      "DST": "SAW",
+      "GCD": 2324
+    },
+    {
+      "ORG": "JED",
+      "DST": "TZX",
+      "GCD": 2143
+    },
+    {
+      "ORG": "JFK",
+      "DST": "IAH",
+      "GCD": 2280
+    },
+    {
+      "ORG": "JFK",
+      "DST": "IST",
+      "GCD": 8047
+    },
+    {
+      "ORG": "JIB",
+      "DST": "IST",
+      "GCD": 3582
+    },
+    {
+      "ORG": "JIB",
+      "DST": "MGQ",
+      "GCD": 1081
+    },
+    {
+      "ORG": "JNB",
+      "DST": "CPT",
+      "GCD": 1271
+    },
+    {
+      "ORG": "JNB",
+      "DST": "DUR",
+      "GCD": 478
+    },
+    {
+      "ORG": "JNB",
+      "DST": "IST",
+      "GCD": 7463
+    },
+    {
+      "ORG": "JNB",
+      "DST": "MPM",
+      "GCD": 434
+    },
+    {
+      "ORG": "JRO",
+      "DST": "IST",
+      "GCD": 5022
+    },
+    {
+      "ORG": "JUB",
+      "DST": "IST",
+      "GCD": 4042
+    },
+    {
+      "ORG": "KAN",
+      "DST": "IST",
+      "GCD": 3791
+    },
+    {
+      "ORG": "KBP",
+      "DST": "ESB",
+      "GCD": 1147
+    },
+    {
+      "ORG": "KBP",
+      "DST": "IST",
+      "GCD": 1022
+    },
+    {
+      "ORG": "KCM",
+      "DST": "ADA",
+      "GCD": 161
+    },
+    {
+      "ORG": "KCM",
+      "DST": "ESB",
+      "GCD": 448
+    },
+    {
+      "ORG": "KCM",
+      "DST": "IST",
+      "GCD": 819
+    },
+    {
+      "ORG": "KEF",
+      "DST": "IST",
+      "GCD": 4123
+    },
+    {
+      "ORG": "KEF",
+      "DST": "ORD",
+      "GCD": 4737
+    },
+    {
+      "ORG": "KFS",
+      "DST": "IST",
+      "GCD": 423
+    },
+    {
+      "ORG": "KGL",
+      "DST": "IST",
+      "GCD": 4790
+    },
+    {
+      "ORG": "KHI",
+      "DST": "IST",
+      "GCD": 3976
+    },
+    {
+      "ORG": "KIK",
+      "DST": "IST",
+      "GCD": 1499
+    },
+    {
+      "ORG": "KIV",
+      "DST": "IST",
+      "GCD": 629
+    },
+    {
+      "ORG": "KNO",
+      "DST": "IST",
+      "GCD": 8089
+    },
+    {
+      "ORG": "KRT",
+      "DST": "ADD",
+      "GCD": 998
+    },
+    {
+      "ORG": "KRT",
+      "DST": "CAI",
+      "GCD": 1614
+    },
+    {
+      "ORG": "KRT",
+      "DST": "IST",
+      "GCD": 2870
+    },
+    {
+      "ORG": "KRT",
+      "DST": "JED",
+      "GCD": 969
+    },
+    {
+      "ORG": "KRW",
+      "DST": "IST",
+      "GCD": 2050
+    },
+    {
+      "ORG": "KSY",
+      "DST": "ESB",
+      "GCD": 861
+    },
+    {
+      "ORG": "KSY",
+      "DST": "IST",
+      "GCD": 1212
+    },
+    {
+      "ORG": "KSY",
+      "DST": "SAW",
+      "GCD": 1166
+    },
+    {
+      "ORG": "KSY",
+      "DST": "TZX",
+      "GCD": 285
+    },
+    {
+      "ORG": "KTM",
+      "DST": "DEL",
+      "GCD": 817
+    },
+    {
+      "ORG": "KTM",
+      "DST": "IST",
+      "GCD": 5316
+    },
+    {
+      "ORG": "KUL",
+      "DST": "DEL",
+      "GCD": 3870
+    },
+    {
+      "ORG": "KUL",
+      "DST": "HKT",
+      "GCD": 703
+    },
+    {
+      "ORG": "KUL",
+      "DST": "IST",
+      "GCD": 8390
+    },
+    {
+      "ORG": "KWI",
+      "DST": "AYT",
+      "GCD": 1811
+    },
+    {
+      "ORG": "KWI",
+      "DST": "BAH",
+      "GCD": 420
+    },
+    {
+      "ORG": "KWI",
+      "DST": "BJV",
+      "GCD": 2085
+    },
+    {
+      "ORG": "KWI",
+      "DST": "IST",
+      "GCD": 2193
+    },
+    {
+      "ORG": "KWI",
+      "DST": "MLE",
+      "GCD": 3866
+    },
+    {
+      "ORG": "KWI",
+      "DST": "SAW",
+      "GCD": 2131
+    },
+    {
+      "ORG": "KWI",
+      "DST": "TZX",
+      "GCD": 1502
+    },
+    {
+      "ORG": "KYA",
+      "DST": "AMS",
+      "GCD": 2677
+    },
+    {
+      "ORG": "KYA",
+      "DST": "CGN",
+      "GCD": 2459
+    },
+    {
+      "ORG": "KYA",
+      "DST": "CPH",
+      "GCD": 2462
+    },
+    {
+      "ORG": "KYA",
+      "DST": "ESB",
+      "GCD": 242
+    },
+    {
+      "ORG": "KYA",
+      "DST": "GYD",
+      "GCD": 1532
+    },
+    {
+      "ORG": "KYA",
+      "DST": "IST",
+      "GCD": 491
+    },
+    {
+      "ORG": "KYA",
+      "DST": "JED",
+      "GCD": 1915
+    },
+    {
+      "ORG": "KYA",
+      "DST": "SAW",
+      "GCD": 428
+    },
+    {
+      "ORG": "KZN",
+      "DST": "IST",
+      "GCD": 2186
+    },
+    {
+      "ORG": "KZR",
+      "DST": "IST",
+      "GCD": 267
+    },
+    {
+      "ORG": "LAD",
+      "DST": "IST",
+      "GCD": 5773
+    },
+    {
+      "ORG": "LAD",
+      "DST": "LBV",
+      "GCD": 1114
+    },
+    {
+      "ORG": "LAX",
+      "DST": "IST",
+      "GCD": 11026
+    },
+    {
+      "ORG": "LBV",
+      "DST": "IST",
+      "GCD": 4921
+    },
+    {
+      "ORG": "LBV",
+      "DST": "LAD",
+      "GCD": 1114
+    },
+    {
+      "ORG": "LCK",
+      "DST": "IST",
+      "GCD": 8687
+    },
+    {
+      "ORG": "LED",
+      "DST": "AYT",
+      "GCD": 2547
+    },
+    {
+      "ORG": "LED",
+      "DST": "IST",
+      "GCD": 2064
+    },
+    {
+      "ORG": "LEJ",
+      "DST": "AYT",
+      "GCD": 2181
+    },
+    {
+      "ORG": "LEJ",
+      "DST": "BUD",
+      "GCD": 675
+    },
+    {
+      "ORG": "LEJ",
+      "DST": "IST",
+      "GCD": 1693
+    },
+    {
+      "ORG": "LFW",
+      "DST": "IST",
+      "GCD": 4750
+    },
+    {
+      "ORG": "LGW",
+      "DST": "AYT",
+      "GCD": 2913
+    },
+    {
+      "ORG": "LGW",
+      "DST": "BJV",
+      "GCD": 2683
+    },
+    {
+      "ORG": "LGW",
+      "DST": "DLM",
+      "GCD": 2797
+    },
+    {
+      "ORG": "LGW",
+      "DST": "IST",
+      "GCD": 2466
+    },
+    {
+      "ORG": "LGW",
+      "DST": "SAW",
+      "GCD": 2529
+    },
+    {
+      "ORG": "LHE",
+      "DST": "ISB",
+      "GCD": 269
+    },
+    {
+      "ORG": "LHE",
+      "DST": "IST",
+      "GCD": 4186
+    },
+    {
+      "ORG": "LHR",
+      "DST": "CUN",
+      "GCD": 7963
+    },
+    {
+      "ORG": "LHR",
+      "DST": "IST",
+      "GCD": 2494
+    },
+    {
+      "ORG": "LIS",
+      "DST": "IST",
+      "GCD": 3220
+    },
+    {
+      "ORG": "LJU",
+      "DST": "IST",
+      "GCD": 1273
+    },
+    {
+      "ORG": "LJU",
+      "DST": "VCE",
+      "GCD": 182
+    },
+    {
+      "ORG": "LJU",
+      "DST": "ZAG",
+      "GCD": 136
+    },
+    {
+      "ORG": "LOS",
+      "DST": "IST",
+      "GCD": 4596
+    },
+    {
+      "ORG": "LUX",
+      "DST": "IST",
+      "GCD": 1982
+    },
+    {
+      "ORG": "LWO",
+      "DST": "IST",
+      "GCD": 1020
+    },
+    {
+      "ORG": "LYS",
+      "DST": "IST",
+      "GCD": 1969
+    },
+    {
+      "ORG": "LYS",
+      "DST": "SAW",
+      "GCD": 2029
+    },
+    {
+      "ORG": "MAA",
+      "DST": "IST",
+      "GCD": 5871
+    },
+    {
+      "ORG": "MAD",
+      "DST": "CCS",
+      "GCD": 7010
+    },
+    {
+      "ORG": "MAD",
+      "DST": "IST",
+      "GCD": 2709
+    },
+    {
+      "ORG": "MAN",
+      "DST": "AYT",
+      "GCD": 3136
+    },
+    {
+      "ORG": "MAN",
+      "DST": "DLM",
+      "GCD": 3028
+    },
+    {
+      "ORG": "MAN",
+      "DST": "IST",
+      "GCD": 2672
+    },
+    {
+      "ORG": "MAN",
+      "DST": "SAW",
+      "GCD": 2735
+    },
+    {
+      "ORG": "MAN",
+      "DST": "VIE",
+      "GCD": 1448
+    },
+    {
+      "ORG": "MCT",
+      "DST": "AYT",
+      "GCD": 3012
+    },
+    {
+      "ORG": "MCT",
+      "DST": "IST",
+      "GCD": 3373
+    },
+    {
+      "ORG": "MCT",
+      "DST": "TZX",
+      "GCD": 2588
+    },
+    {
+      "ORG": "MED",
+      "DST": "AYT",
+      "GCD": 1611
+    },
+    {
+      "ORG": "MED",
+      "DST": "ESB",
+      "GCD": 1838
+    },
+    {
+      "ORG": "MED",
+      "DST": "IST",
+      "GCD": 2115
+    },
+    {
+      "ORG": "MED",
+      "DST": "SAW",
+      "GCD": 2054
+    },
+    {
+      "ORG": "MEX",
+      "DST": "IST",
+      "GCD": 11407
+    },
+    {
+      "ORG": "MFM",
+      "DST": "ALA",
+      "GCD": 4104
+    },
+    {
+      "ORG": "MGQ",
+      "DST": "IST",
+      "GCD": 4655
+    },
+    {
+      "ORG": "MGQ",
+      "DST": "JIB",
+      "GCD": 1081
+    },
+    {
+      "ORG": "MHD",
+      "DST": "IST",
+      "GCD": 2729
+    },
+    {
+      "ORG": "MIA",
+      "DST": "BOS",
+      "GCD": 2025
+    },
+    {
+      "ORG": "MIA",
+      "DST": "IST",
+      "GCD": 9603
+    },
+    {
+      "ORG": "MKE",
+      "DST": "IST",
+      "GCD": 8729
+    },
+    {
+      "ORG": "MLA",
+      "DST": "CMN",
+      "GCD": 2038
+    },
+    {
+      "ORG": "MLA",
+      "DST": "IST",
+      "GCD": 1379
+    },
+    {
+      "ORG": "MLA",
+      "DST": "LOS",
+      "GCD": 3437
+    },
+    {
+      "ORG": "MLA",
+      "DST": "TUN",
+      "GCD": 397
+    },
+    {
+      "ORG": "MLE",
+      "DST": "CMB",
+      "GCD": 778
+    },
+    {
+      "ORG": "MLE",
+      "DST": "IST",
+      "GCD": 6059
+    },
+    {
+      "ORG": "MLX",
+      "DST": "DIY",
+      "GCD": 194
+    },
+    {
+      "ORG": "MLX",
+      "DST": "ESB",
+      "GCD": 478
+    },
+    {
+      "ORG": "MLX",
+      "DST": "IST",
+      "GCD": 859
+    },
+    {
+      "ORG": "MLX",
+      "DST": "SAW",
+      "GCD": 801
+    },
+    {
+      "ORG": "MNL",
+      "DST": "CEB",
+      "GCD": 565
+    },
+    {
+      "ORG": "MNL",
+      "DST": "IST",
+      "GCD": 9148
+    },
+    {
+      "ORG": "MNL",
+      "DST": "KHI",
+      "GCD": 5727
+    },
+    {
+      "ORG": "MPM",
+      "DST": "JNB",
+      "GCD": 434
+    },
+    {
+      "ORG": "MQM",
+      "DST": "ESB",
+      "GCD": 738
+    },
+    {
+      "ORG": "MQM",
+      "DST": "IST",
+      "GCD": 1119
+    },
+    {
+      "ORG": "MQM",
+      "DST": "SAW",
+      "GCD": 1060
+    },
+    {
+      "ORG": "MRS",
+      "DST": "IST",
+      "GCD": 1947
+    },
+    {
+      "ORG": "MRS",
+      "DST": "LYS",
+      "GCD": 255
+    },
+    {
+      "ORG": "MRU",
+      "DST": "IST",
+      "GCD": 7456
+    },
+    {
+      "ORG": "MSQ",
+      "DST": "ESB",
+      "GCD": 1574
+    },
+    {
+      "ORG": "MSQ",
+      "DST": "IST",
+      "GCD": 1403
+    },
+    {
+      "ORG": "MSR",
+      "DST": "ESB",
+      "GCD": 761
+    },
+    {
+      "ORG": "MSR",
+      "DST": "IST",
+      "GCD": 1137
+    },
+    {
+      "ORG": "MSR",
+      "DST": "SAW",
+      "GCD": 1083
+    },
+    {
+      "ORG": "MSR",
+      "DST": "YEI",
+      "GCD": 1053
+    },
+    {
+      "ORG": "MST",
+      "DST": "IST",
+      "GCD": 2062
+    },
+    {
+      "ORG": "MUC",
+      "DST": "ADA",
+      "GCD": 2289
+    },
+    {
+      "ORG": "MUC",
+      "DST": "ADB",
+      "GCD": 1669
+    },
+    {
+      "ORG": "MUC",
+      "DST": "ASR",
+      "GCD": 2179
+    },
+    {
+      "ORG": "MUC",
+      "DST": "AYT",
+      "GCD": 2003
+    },
+    {
+      "ORG": "MUC",
+      "DST": "ESB",
+      "GCD": 1916
+    },
+    {
+      "ORG": "MUC",
+      "DST": "GZT",
+      "GCD": 2441
+    },
+    {
+      "ORG": "MUC",
+      "DST": "IST",
+      "GCD": 1550
+    },
+    {
+      "ORG": "MUC",
+      "DST": "OGU",
+      "GCD": 2228
+    },
+    {
+      "ORG": "MUC",
+      "DST": "SAW",
+      "GCD": 1613
+    },
+    {
+      "ORG": "MUC",
+      "DST": "SZF",
+      "GCD": 2102
+    },
+    {
+      "ORG": "MUC",
+      "DST": "TZX",
+      "GCD": 2350
+    },
+    {
+      "ORG": "MUX",
+      "DST": "IST",
+      "GCD": 4006
+    },
+    {
+      "ORG": "MXP",
+      "DST": "BLQ",
+      "GCD": 237
+    },
+    {
+      "ORG": "MXP",
+      "DST": "IST",
+      "GCD": 1686
+    },
+    {
+      "ORG": "MXP",
+      "DST": "SAW",
+      "GCD": 1746
+    },
+    {
+      "ORG": "MZH",
+      "DST": "ESB",
+      "GCD": 228
+    },
+    {
+      "ORG": "MZH",
+      "DST": "IST",
+      "GCD": 572
+    },
+    {
+      "ORG": "NAJ",
+      "DST": "GNJ",
+      "GCD": 187
+    },
+    {
+      "ORG": "NAJ",
+      "DST": "IST",
+      "GCD": 1439
+    },
+    {
+      "ORG": "NAP",
+      "DST": "IST",
+      "GCD": 1214
+    },
+    {
+      "ORG": "NAV",
+      "DST": "ASR",
+      "GCD": 84
+    },
+    {
+      "ORG": "NAV",
+      "DST": "GNY",
+      "GCD": 422
+    },
+    {
+      "ORG": "NAV",
+      "DST": "IST",
+      "GCD": 567
+    },
+    {
+      "ORG": "NAV",
+      "DST": "SAW",
+      "GCD": 506
+    },
+    {
+      "ORG": "NBO",
+      "DST": "IST",
+      "GCD": 4789
+    },
+    {
+      "ORG": "NCE",
+      "DST": "IST",
+      "GCD": 1785
+    },
+    {
+      "ORG": "NDJ",
+      "DST": "FIH",
+      "GCD": 1827
+    },
+    {
+      "ORG": "NDJ",
+      "DST": "IST",
+      "GCD": 3495
+    },
+    {
+      "ORG": "NIM",
+      "DST": "CKY",
+      "GCD": 1775
+    },
+    {
+      "ORG": "NIM",
+      "DST": "IST",
+      "GCD": 4015
+    },
+    {
+      "ORG": "NIM",
+      "DST": "KAN",
+      "GCD": 707
+    },
+    {
+      "ORG": "NJF",
+      "DST": "IST",
+      "GCD": 1734
+    },
+    {
+      "ORG": "NKC",
+      "DST": "ALG",
+      "GCD": 2788
+    },
+    {
+      "ORG": "NKC",
+      "DST": "DSS",
+      "GCD": 398
+    },
+    {
+      "ORG": "NKC",
+      "DST": "IST",
+      "GCD": 4955
+    },
+    {
+      "ORG": "NKT",
+      "DST": "ESB",
+      "GCD": 845
+    },
+    {
+      "ORG": "NKT",
+      "DST": "IST",
+      "GCD": 1226
+    },
+    {
+      "ORG": "NKT",
+      "DST": "SAW",
+      "GCD": 1169
+    },
+    {
+      "ORG": "NLV",
+      "DST": "IST",
+      "GCD": 691
+    },
+    {
+      "ORG": "NOP",
+      "DST": "IST",
+      "GCD": 534
+    },
+    {
+      "ORG": "NQZ",
+      "DST": "ALA",
+      "GCD": 951
+    },
+    {
+      "ORG": "NQZ",
+      "DST": "ESB",
+      "GCD": 3193
+    },
+    {
+      "ORG": "NQZ",
+      "DST": "IST",
+      "GCD": 3419
+    },
+    {
+      "ORG": "NRT",
+      "DST": "IST",
+      "GCD": 9001
+    },
+    {
+      "ORG": "NSI",
+      "DST": "DLA",
+      "GCD": 206
+    },
+    {
+      "ORG": "NSI",
+      "DST": "IST",
+      "GCD": 4500
+    },
+    {
+      "ORG": "NUE",
+      "DST": "IST",
+      "GCD": 1653
+    },
+    {
+      "ORG": "NVI",
+      "DST": "IST",
+      "GCD": 3059
+    },
+    {
+      "ORG": "ODS",
+      "DST": "IST",
+      "GCD": 594
+    },
+    {
+      "ORG": "ODS",
+      "DST": "SAW",
+      "GCD": 624
+    },
+    {
+      "ORG": "OGU",
+      "DST": "ADB",
+      "GCD": 983
+    },
+    {
+      "ORG": "OGU",
+      "DST": "BER",
+      "GCD": 2251
+    },
+    {
+      "ORG": "OGU",
+      "DST": "DUS",
+      "GCD": 2652
+    },
+    {
+      "ORG": "OGU",
+      "DST": "ESB",
+      "GCD": 441
+    },
+    {
+      "ORG": "OGU",
+      "DST": "FRA",
+      "GCD": 2496
+    },
+    {
+      "ORG": "OGU",
+      "DST": "HAM",
+      "GCD": 2523
+    },
+    {
+      "ORG": "OGU",
+      "DST": "IST",
+      "GCD": 785
+    },
+    {
+      "ORG": "OGU",
+      "DST": "MUC",
+      "GCD": 2228
+    },
+    {
+      "ORG": "OGU",
+      "DST": "SAW",
+      "GCD": 739
+    },
+    {
+      "ORG": "OGU",
+      "DST": "SZF",
+      "GCD": 131
+    },
+    {
+      "ORG": "OGU",
+      "DST": "SZG",
+      "GCD": 2126
+    },
+    {
+      "ORG": "OGU",
+      "DST": "TZX",
+      "GCD": 143
+    },
+    {
+      "ORG": "OMH",
+      "DST": "SAW",
+      "GCD": 1404
+    },
+    {
+      "ORG": "ONQ",
+      "DST": "IST",
+      "GCD": 281
+    },
+    {
+      "ORG": "OPO",
+      "DST": "IST",
+      "GCD": 3112
+    },
+    {
+      "ORG": "ORD",
+      "DST": "IST",
+      "GCD": 8808
+    },
+    {
+      "ORG": "ORD",
+      "DST": "JFK",
+      "GCD": 1191
+    },
+    {
+      "ORG": "ORD",
+      "DST": "YYZ",
+      "GCD": 702
+    },
+    {
+      "ORG": "ORN",
+      "DST": "IST",
+      "GCD": 2625
+    },
+    {
+      "ORG": "OSL",
+      "DST": "GZP",
+      "GCD": 3057
+    },
+    {
+      "ORG": "OSL",
+      "DST": "IST",
+      "GCD": 2428
+    },
+    {
+      "ORG": "OTP",
+      "DST": "AMS",
+      "GCD": 1788
+    },
+    {
+      "ORG": "OTP",
+      "DST": "IST",
+      "GCD": 425
+    },
+    {
+      "ORG": "OTP",
+      "DST": "MIA",
+      "GCD": 9231
+    },
+    {
+      "ORG": "OUA",
+      "DST": "CKY",
+      "GCD": 1357
+    },
+    {
+      "ORG": "OUA",
+      "DST": "FNA",
+      "GCD": 1344
+    },
+    {
+      "ORG": "OUA",
+      "DST": "IST",
+      "GCD": 4351
+    },
+    {
+      "ORG": "OZH",
+      "DST": "IST",
+      "GCD": 899
+    },
+    {
+      "ORG": "PEK",
+      "DST": "IST",
+      "GCD": 7078
+    },
+    {
+      "ORG": "PNH",
+      "DST": "BKK",
+      "GCD": 504
+    },
+    {
+      "ORG": "PNH",
+      "DST": "KUL",
+      "GCD": 1033
+    },
+    {
+      "ORG": "PNR",
+      "DST": "IST",
+      "GCD": 5384
+    },
+    {
+      "ORG": "PRG",
+      "DST": "IST",
+      "GCD": 1491
+    },
+    {
+      "ORG": "PRN",
+      "DST": "AYT",
+      "GCD": 1046
+    },
+    {
+      "ORG": "PRN",
+      "DST": "BJV",
+      "GCD": 818
+    },
+    {
+      "ORG": "PRN",
+      "DST": "IST",
+      "GCD": 655
+    },
+    {
+      "ORG": "PRN",
+      "DST": "SAW",
+      "GCD": 713
+    },
+    {
+      "ORG": "PTY",
+      "DST": "BOG",
+      "GCD": 754
+    },
+    {
+      "ORG": "PTY",
+      "DST": "IST",
+      "GCD": 10830
+    },
+    {
+      "ORG": "RAK",
+      "DST": "IST",
+      "GCD": 3438
+    },
+    {
+      "ORG": "RGN",
+      "DST": "BKK",
+      "GCD": 610
+    },
+    {
+      "ORG": "RGN",
+      "DST": "IST",
+      "GCD": 6910
+    },
+    {
+      "ORG": "RIX",
+      "DST": "ARN",
+      "GCD": 467
+    },
+    {
+      "ORG": "RIX",
+      "DST": "IST",
+      "GCD": 1774
+    },
+    {
+      "ORG": "ROV",
+      "DST": "IST",
+      "GCD": 1126
+    },
+    {
+      "ORG": "RUH",
+      "DST": "IST",
+      "GCD": 2456
+    },
+    {
+      "ORG": "RUH",
+      "DST": "SAW",
+      "GCD": 2393
+    },
+    {
+      "ORG": "RUH",
+      "DST": "TZX",
+      "GCD": 1891
+    },
+    {
+      "ORG": "RVN",
+      "DST": "IST",
+      "GCD": 2821
+    },
+    {
+      "ORG": "RZV",
+      "DST": "ERZ",
+      "GCD": 139
+    },
+    {
+      "ORG": "RZV",
+      "DST": "ESB",
+      "GCD": 674
+    },
+    {
+      "ORG": "RZV",
+      "DST": "IST",
+      "GCD": 1014
+    },
+    {
+      "ORG": "RZV",
+      "DST": "MCT",
+      "GCD": 2538
+    },
+    {
+      "ORG": "RZV",
+      "DST": "SAW",
+      "GCD": 970
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ADA",
+      "GCD": 676
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ADB",
+      "GCD": 343
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ADF",
+      "GCD": 864
+    },
+    {
+      "ORG": "SAW",
+      "DST": "AJI",
+      "GCD": 1174
+    },
+    {
+      "ORG": "SAW",
+      "DST": "AMS",
+      "GCD": 2251
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ASR",
+      "GCD": 580
+    },
+    {
+      "ORG": "SAW",
+      "DST": "AYT",
+      "GCD": 462
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BAH",
+      "GCD": 2547
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BAL",
+      "GCD": 1068
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BER",
+      "GCD": 1750
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BGW",
+      "GCD": 1571
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BGY",
+      "GCD": 1672
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BJV",
+      "GCD": 429
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BRU",
+      "GCD": 2209
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BSL",
+      "GCD": 1885
+    },
+    {
+      "ORG": "SAW",
+      "DST": "BUD",
+      "GCD": 1082
+    },
+    {
+      "ORG": "SAW",
+      "DST": "CDG",
+      "GCD": 2281
+    },
+    {
+      "ORG": "SAW",
+      "DST": "CGN",
+      "GCD": 2034
+    },
+    {
+      "ORG": "SAW",
+      "DST": "CPH",
+      "GCD": 2040
+    },
+    {
+      "ORG": "SAW",
+      "DST": "DIY",
+      "GCD": 995
+    },
+    {
+      "ORG": "SAW",
+      "DST": "DLM",
+      "GCD": 467
+    },
+    {
+      "ORG": "SAW",
+      "DST": "DNZ",
+      "GCD": 347
+    },
+    {
+      "ORG": "SAW",
+      "DST": "DUS",
+      "GCD": 2078
+    },
+    {
+      "ORG": "SAW",
+      "DST": "DXB",
+      "GCD": 2969
+    },
+    {
+      "ORG": "SAW",
+      "DST": "EBL",
+      "GCD": 1376
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ECN",
+      "GCD": 735
+    },
+    {
+      "ORG": "SAW",
+      "DST": "EDO",
+      "GCD": 246
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ERC",
+      "GCD": 878
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ERZ",
+      "GCD": 1011
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ESB",
+      "GCD": 324
+    },
+    {
+      "ORG": "SAW",
+      "DST": "EZS",
+      "GCD": 892
+    },
+    {
+      "ORG": "SAW",
+      "DST": "FRA",
+      "GCD": 1904
+    },
+    {
+      "ORG": "SAW",
+      "DST": "GNY",
+      "GCD": 927
+    },
+    {
+      "ORG": "SAW",
+      "DST": "GYD",
+      "GCD": 1750
+    },
+    {
+      "ORG": "SAW",
+      "DST": "GZT",
+      "GCD": 833
+    },
+    {
+      "ORG": "SAW",
+      "DST": "HAJ",
+      "GCD": 1965
+    },
+    {
+      "ORG": "SAW",
+      "DST": "HAM",
+      "GCD": 2023
+    },
+    {
+      "ORG": "SAW",
+      "DST": "HTY",
+      "GCD": 789
+    },
+    {
+      "ORG": "SAW",
+      "DST": "IST",
+      "GCD": 63
+    },
+    {
+      "ORG": "SAW",
+      "DST": "JED",
+      "GCD": 2324
+    },
+    {
+      "ORG": "SAW",
+      "DST": "KSY",
+      "GCD": 1166
+    },
+    {
+      "ORG": "SAW",
+      "DST": "KWI",
+      "GCD": 2131
+    },
+    {
+      "ORG": "SAW",
+      "DST": "KYA",
+      "GCD": 428
+    },
+    {
+      "ORG": "SAW",
+      "DST": "LYS",
+      "GCD": 2029
+    },
+    {
+      "ORG": "SAW",
+      "DST": "MED",
+      "GCD": 2054
+    },
+    {
+      "ORG": "SAW",
+      "DST": "MLX",
+      "GCD": 801
+    },
+    {
+      "ORG": "SAW",
+      "DST": "MQM",
+      "GCD": 1060
+    },
+    {
+      "ORG": "SAW",
+      "DST": "MUC",
+      "GCD": 1613
+    },
+    {
+      "ORG": "SAW",
+      "DST": "MXP",
+      "GCD": 1746
+    },
+    {
+      "ORG": "SAW",
+      "DST": "NAV",
+      "GCD": 506
+    },
+    {
+      "ORG": "SAW",
+      "DST": "NKT",
+      "GCD": 1169
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ODS",
+      "GCD": 624
+    },
+    {
+      "ORG": "SAW",
+      "DST": "OGU",
+      "GCD": 739
+    },
+    {
+      "ORG": "SAW",
+      "DST": "RUH",
+      "GCD": 2393
+    },
+    {
+      "ORG": "SAW",
+      "DST": "RZV",
+      "GCD": 970
+    },
+    {
+      "ORG": "SAW",
+      "DST": "SHJ",
+      "GCD": 2975
+    },
+    {
+      "ORG": "SAW",
+      "DST": "SJJ",
+      "GCD": 960
+    },
+    {
+      "ORG": "SAW",
+      "DST": "STN",
+      "GCD": 2524
+    },
+    {
+      "ORG": "SAW",
+      "DST": "STR",
+      "GCD": 1802
+    },
+    {
+      "ORG": "SAW",
+      "DST": "SZF",
+      "GCD": 611
+    },
+    {
+      "ORG": "SAW",
+      "DST": "TBS",
+      "GCD": 1312
+    },
+    {
+      "ORG": "SAW",
+      "DST": "TEQ",
+      "GCD": 120
+    },
+    {
+      "ORG": "SAW",
+      "DST": "TJK",
+      "GCD": 601
+    },
+    {
+      "ORG": "SAW",
+      "DST": "TLV",
+      "GCD": 1105
+    },
+    {
+      "ORG": "SAW",
+      "DST": "TZX",
+      "GCD": 882
+    },
+    {
+      "ORG": "SAW",
+      "DST": "VAN",
+      "GCD": 1231
+    },
+    {
+      "ORG": "SAW",
+      "DST": "VAS",
+      "GCD": 656
+    },
+    {
+      "ORG": "SAW",
+      "DST": "VIE",
+      "GCD": 1288
+    },
+    {
+      "ORG": "SAW",
+      "DST": "ZRH",
+      "GCD": 1806
+    },
+    {
+      "ORG": "SCO",
+      "DST": "ICN",
+      "GCD": 6188
+    },
+    {
+      "ORG": "SCO",
+      "DST": "IST",
+      "GCD": 1852
+    },
+    {
+      "ORG": "SEA",
+      "DST": "IST",
+      "GCD": 9771
+    },
+    {
+      "ORG": "SEZ",
+      "DST": "IST",
+      "GCD": 5771
+    },
+    {
+      "ORG": "SFO",
+      "DST": "BER",
+      "GCD": 9161
+    },
+    {
+      "ORG": "SFO",
+      "DST": "IST",
+      "GCD": 10790
+    },
+    {
+      "ORG": "SFS",
+      "DST": "IST",
+      "GCD": 9066
+    },
+    {
+      "ORG": "SGN",
+      "DST": "IST",
+      "GCD": 8217
+    },
+    {
+      "ORG": "SGN",
+      "DST": "KUL",
+      "GCD": 1046
+    },
+    {
+      "ORG": "SHJ",
+      "DST": "IST",
+      "GCD": 3036
+    },
+    {
+      "ORG": "SHJ",
+      "DST": "SAW",
+      "GCD": 2975
+    },
+    {
+      "ORG": "SIN",
+      "DST": "IST",
+      "GCD": 8680
+    },
+    {
+      "ORG": "SJJ",
+      "DST": "AYT",
+      "GCD": 1307
+    },
+    {
+      "ORG": "SJJ",
+      "DST": "BEG",
+      "GCD": 193
+    },
+    {
+      "ORG": "SJJ",
+      "DST": "BJV",
+      "GCD": 1075
+    },
+    {
+      "ORG": "SJJ",
+      "DST": "IST",
+      "GCD": 900
+    },
+    {
+      "ORG": "SJJ",
+      "DST": "SAW",
+      "GCD": 960
+    },
+    {
+      "ORG": "SKD",
+      "DST": "IST",
+      "GCD": 3221
+    },
+    {
+      "ORG": "SKG",
+      "DST": "IST",
+      "GCD": 493
+    },
+    {
+      "ORG": "SKP",
+      "DST": "AYT",
+      "GCD": 969
+    },
+    {
+      "ORG": "SKP",
+      "DST": "BJV",
+      "GCD": 736
+    },
+    {
+      "ORG": "SKP",
+      "DST": "IST",
+      "GCD": 598
+    },
+    {
+      "ORG": "SNN",
+      "DST": "IST",
+      "GCD": 3090
+    },
+    {
+      "ORG": "SOF",
+      "DST": "IST",
+      "GCD": 470
+    },
+    {
+      "ORG": "SOF",
+      "DST": "SAW",
+      "GCD": 530
+    },
+    {
+      "ORG": "SOF",
+      "DST": "STR",
+      "GCD": 1287
+    },
+    {
+      "ORG": "SPU",
+      "DST": "LYS",
+      "GCD": 922
+    },
+    {
+      "ORG": "SSH",
+      "DST": "IST",
+      "GCD": 1562
+    },
+    {
+      "ORG": "STN",
+      "DST": "ADB",
+      "GCD": 2578
+    },
+    {
+      "ORG": "STN",
+      "DST": "AYT",
+      "GCD": 2916
+    },
+    {
+      "ORG": "STN",
+      "DST": "DLM",
+      "GCD": 2805
+    },
+    {
+      "ORG": "STN",
+      "DST": "ESB",
+      "GCD": 2821
+    },
+    {
+      "ORG": "STN",
+      "DST": "SAW",
+      "GCD": 2524
+    },
+    {
+      "ORG": "STR",
+      "DST": "ADA",
+      "GCD": 2477
+    },
+    {
+      "ORG": "STR",
+      "DST": "ADB",
+      "GCD": 1846
+    },
+    {
+      "ORG": "STR",
+      "DST": "ASR",
+      "GCD": 2370
+    },
+    {
+      "ORG": "STR",
+      "DST": "AYT",
+      "GCD": 2185
+    },
+    {
+      "ORG": "STR",
+      "DST": "ESB",
+      "GCD": 2107
+    },
+    {
+      "ORG": "STR",
+      "DST": "EZS",
+      "GCD": 2649
+    },
+    {
+      "ORG": "STR",
+      "DST": "FRA",
+      "GCD": 157
+    },
+    {
+      "ORG": "STR",
+      "DST": "GZT",
+      "GCD": 2631
+    },
+    {
+      "ORG": "STR",
+      "DST": "IST",
+      "GCD": 1739
+    },
+    {
+      "ORG": "STR",
+      "DST": "SAW",
+      "GCD": 1802
+    },
+    {
+      "ORG": "STR",
+      "DST": "SZF",
+      "GCD": 2295
+    },
+    {
+      "ORG": "STR",
+      "DST": "TZX",
+      "GCD": 2543
+    },
+    {
+      "ORG": "SVO",
+      "DST": "IST",
+      "GCD": 1752
+    },
+    {
+      "ORG": "SVX",
+      "DST": "IST",
+      "GCD": 2866
+    },
+    {
+      "ORG": "SXB",
+      "DST": "IST",
+      "GCD": 1844
+    },
+    {
+      "ORG": "SXZ",
+      "DST": "ESB",
+      "GCD": 801
+    },
+    {
+      "ORG": "SXZ",
+      "DST": "IST",
+      "GCD": 1181
+    },
+    {
+      "ORG": "SYZ",
+      "DST": "IST",
+      "GCD": 2514
+    },
+    {
+      "ORG": "SZF",
+      "DST": "BER",
+      "GCD": 2135
+    },
+    {
+      "ORG": "SZF",
+      "DST": "CGN",
+      "GCD": 2493
+    },
+    {
+      "ORG": "SZF",
+      "DST": "DUS",
+      "GCD": 2530
+    },
+    {
+      "ORG": "SZF",
+      "DST": "ESB",
+      "GCD": 327
+    },
+    {
+      "ORG": "SZF",
+      "DST": "FRU",
+      "GCD": 3113
+    },
+    {
+      "ORG": "SZF",
+      "DST": "HAJ",
+      "GCD": 2377
+    },
+    {
+      "ORG": "SZF",
+      "DST": "HAM",
+      "GCD": 2409
+    },
+    {
+      "ORG": "SZF",
+      "DST": "IST",
+      "GCD": 655
+    },
+    {
+      "ORG": "SZF",
+      "DST": "MUC",
+      "GCD": 2102
+    },
+    {
+      "ORG": "SZF",
+      "DST": "NQZ",
+      "GCD": 2874
+    },
+    {
+      "ORG": "SZF",
+      "DST": "SAW",
+      "GCD": 611
+    },
+    {
+      "ORG": "SZF",
+      "DST": "STR",
+      "GCD": 2295
+    },
+    {
+      "ORG": "SZF",
+      "DST": "TAS",
+      "GCD": 2725
+    },
+    {
+      "ORG": "SZF",
+      "DST": "VIE",
+      "GCD": 1751
+    },
+    {
+      "ORG": "SZG",
+      "DST": "IST",
+      "GCD": 1442
+    },
+    {
+      "ORG": "SZG",
+      "DST": "OGU",
+      "GCD": 2126
+    },
+    {
+      "ORG": "TAS",
+      "DST": "ALA",
+      "GCD": 681
+    },
+    {
+      "ORG": "TAS",
+      "DST": "ESB",
+      "GCD": 3047
+    },
+    {
+      "ORG": "TAS",
+      "DST": "FRU",
+      "GCD": 474
+    },
+    {
+      "ORG": "TAS",
+      "DST": "IST",
+      "GCD": 3365
+    },
+    {
+      "ORG": "TBS",
+      "DST": "IST",
+      "GCD": 1353
+    },
+    {
+      "ORG": "TBS",
+      "DST": "SAW",
+      "GCD": 1312
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "ADB",
+      "GCD": 1668
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "ERZ",
+      "GCD": 483
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "ESB",
+      "GCD": 1165
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "GYD",
+      "GCD": 419
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "IST",
+      "GCD": 1537
+    },
+    {
+      "ORG": "TBZ",
+      "DST": "NAJ",
+      "GCD": 135
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "ADA",
+      "GCD": 786
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "AMS",
+      "GCD": 2147
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "BEY",
+      "GCD": 1052
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "BJV",
+      "GCD": 432
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "BSL",
+      "GCD": 1770
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "DLM",
+      "GCD": 497
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "ECN",
+      "GCD": 823
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "FCO",
+      "GCD": 1310
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "FRA",
+      "GCD": 1796
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "GYD",
+      "GCD": 1864
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "GZT",
+      "GCD": 949
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "HKG",
+      "GCD": 8091
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "HTY",
+      "GCD": 899
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "KRT",
+      "GCD": 2867
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "MQM",
+      "GCD": 1180
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "MRS",
+      "GCD": 1884
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "ODS",
+      "GCD": 628
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "OTP",
+      "GCD": 409
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "RUH",
+      "GCD": 2498
+    },
+    {
+      "ORG": "TEQ",
+      "DST": "VIE",
+      "GCD": 1185
+    },
+    {
+      "ORG": "TGD",
+      "DST": "IST",
+      "GCD": 797
+    },
+    {
+      "ORG": "TIA",
+      "DST": "IST",
+      "GCD": 755
+    },
+    {
+      "ORG": "TIV",
+      "DST": "IST",
+      "GCD": 841
+    },
+    {
+      "ORG": "TJK",
+      "DST": "IST",
+      "GCD": 652
+    },
+    {
+      "ORG": "TJK",
+      "DST": "SAW",
+      "GCD": 601
+    },
+    {
+      "ORG": "TLL",
+      "DST": "IST",
+      "GCD": 2036
+    },
+    {
+      "ORG": "TLS",
+      "DST": "IST",
+      "GCD": 2257
+    },
+    {
+      "ORG": "TLV",
+      "DST": "AYT",
+      "GCD": 659
+    },
+    {
+      "ORG": "TLV",
+      "DST": "DLM",
+      "GCD": 765
+    },
+    {
+      "ORG": "TLV",
+      "DST": "IST",
+      "GCD": 1165
+    },
+    {
+      "ORG": "TLV",
+      "DST": "SAW",
+      "GCD": 1105
+    },
+    {
+      "ORG": "TMR",
+      "DST": "ACC",
+      "GCD": 1997
+    },
+    {
+      "ORG": "TPE",
+      "DST": "IST",
+      "GCD": 8413
+    },
+    {
+      "ORG": "TUN",
+      "DST": "AYT",
+      "GCD": 1831
+    },
+    {
+      "ORG": "TUN",
+      "DST": "IST",
+      "GCD": 1672
+    },
+    {
+      "ORG": "TUN",
+      "DST": "MLA",
+      "GCD": 397
+    },
+    {
+      "ORG": "TZX",
+      "DST": "AMM",
+      "GCD": 1084
+    },
+    {
+      "ORG": "TZX",
+      "DST": "AMS",
+      "GCD": 2924
+    },
+    {
+      "ORG": "TZX",
+      "DST": "BAH",
+      "GCD": 1915
+    },
+    {
+      "ORG": "TZX",
+      "DST": "BER",
+      "GCD": 2355
+    },
+    {
+      "ORG": "TZX",
+      "DST": "CGN",
+      "GCD": 2731
+    },
+    {
+      "ORG": "TZX",
+      "DST": "DAC",
+      "GCD": 5045
+    },
+    {
+      "ORG": "TZX",
+      "DST": "DIY",
+      "GCD": 346
+    },
+    {
+      "ORG": "TZX",
+      "DST": "DMM",
+      "GCD": 1856
+    },
+    {
+      "ORG": "TZX",
+      "DST": "DUS",
+      "GCD": 2766
+    },
+    {
+      "ORG": "TZX",
+      "DST": "ECN",
+      "GCD": 851
+    },
+    {
+      "ORG": "TZX",
+      "DST": "ERZ",
+      "GCD": 164
+    },
+    {
+      "ORG": "TZX",
+      "DST": "ESB",
+      "GCD": 583
+    },
+    {
+      "ORG": "TZX",
+      "DST": "FRA",
+      "GCD": 2614
+    },
+    {
+      "ORG": "TZX",
+      "DST": "GYD",
+      "GCD": 868
+    },
+    {
+      "ORG": "TZX",
+      "DST": "HAJ",
+      "GCD": 2603
+    },
+    {
+      "ORG": "TZX",
+      "DST": "IST",
+      "GCD": 927
+    },
+    {
+      "ORG": "TZX",
+      "DST": "JED",
+      "GCD": 2143
+    },
+    {
+      "ORG": "TZX",
+      "DST": "JFK",
+      "GCD": 8758
+    },
+    {
+      "ORG": "TZX",
+      "DST": "KWI",
+      "GCD": 1502
+    },
+    {
+      "ORG": "TZX",
+      "DST": "MCT",
+      "GCD": 2588
+    },
+    {
+      "ORG": "TZX",
+      "DST": "MUC",
+      "GCD": 2350
+    },
+    {
+      "ORG": "TZX",
+      "DST": "RUH",
+      "GCD": 1891
+    },
+    {
+      "ORG": "TZX",
+      "DST": "RZV",
+      "GCD": 91
+    },
+    {
+      "ORG": "TZX",
+      "DST": "SAW",
+      "GCD": 882
+    },
+    {
+      "ORG": "TZX",
+      "DST": "STR",
+      "GCD": 2543
+    },
+    {
+      "ORG": "TZX",
+      "DST": "TAS",
+      "GCD": 2465
+    },
+    {
+      "ORG": "TZX",
+      "DST": "VAN",
+      "GCD": 413
+    },
+    {
+      "ORG": "TZX",
+      "DST": "VIE",
+      "GCD": 1997
+    },
+    {
+      "ORG": "TZX",
+      "DST": "YEI",
+      "GCD": 869
+    },
+    {
+      "ORG": "UBN",
+      "DST": "IST",
+      "GCD": 5987
+    },
+    {
+      "ORG": "UGC",
+      "DST": "IST",
+      "GCD": 2651
+    },
+    {
+      "ORG": "VAN",
+      "DST": "ASR",
+      "GCD": 683
+    },
+    {
+      "ORG": "VAN",
+      "DST": "DIY",
+      "GCD": 282
+    },
+    {
+      "ORG": "VAN",
+      "DST": "ERZ",
+      "GCD": 249
+    },
+    {
+      "ORG": "VAN",
+      "DST": "ESB",
+      "GCD": 910
+    },
+    {
+      "ORG": "VAN",
+      "DST": "IST",
+      "GCD": 1285
+    },
+    {
+      "ORG": "VAN",
+      "DST": "MLX",
+      "GCD": 457
+    },
+    {
+      "ORG": "VAN",
+      "DST": "MSR",
+      "GCD": 149
+    },
+    {
+      "ORG": "VAN",
+      "DST": "SAW",
+      "GCD": 1231
+    },
+    {
+      "ORG": "VAN",
+      "DST": "TZX",
+      "GCD": 413
+    },
+    {
+      "ORG": "VAR",
+      "DST": "IST",
+      "GCD": 231
+    },
+    {
+      "ORG": "VAS",
+      "DST": "ERZ",
+      "GCD": 365
+    },
+    {
+      "ORG": "VAS",
+      "DST": "IST",
+      "GCD": 710
+    },
+    {
+      "ORG": "VAS",
+      "DST": "SAW",
+      "GCD": 656
+    },
+    {
+      "ORG": "VCE",
+      "DST": "BLQ",
+      "GCD": 137
+    },
+    {
+      "ORG": "VCE",
+      "DST": "IST",
+      "GCD": 1406
+    },
+    {
+      "ORG": "VIE",
+      "DST": "ADB",
+      "GCD": 1386
+    },
+    {
+      "ORG": "VIE",
+      "DST": "ASR",
+      "GCD": 1842
+    },
+    {
+      "ORG": "VIE",
+      "DST": "AYT",
+      "GCD": 1703
+    },
+    {
+      "ORG": "VIE",
+      "DST": "CGN",
+      "GCD": 748
+    },
+    {
+      "ORG": "VIE",
+      "DST": "ESB",
+      "GCD": 1580
+    },
+    {
+      "ORG": "VIE",
+      "DST": "GZT",
+      "GCD": 2107
+    },
+    {
+      "ORG": "VIE",
+      "DST": "IST",
+      "GCD": 1225
+    },
+    {
+      "ORG": "VIE",
+      "DST": "LUX",
+      "GCD": 779
+    },
+    {
+      "ORG": "VIE",
+      "DST": "SAW",
+      "GCD": 1288
+    },
+    {
+      "ORG": "VIE",
+      "DST": "SZF",
+      "GCD": 1751
+    },
+    {
+      "ORG": "VIE",
+      "DST": "TZX",
+      "GCD": 1997
+    },
+    {
+      "ORG": "VKO",
+      "DST": "AYT",
+      "GCD": 2134
+    },
+    {
+      "ORG": "VKO",
+      "DST": "BJV",
+      "GCD": 2163
+    },
+    {
+      "ORG": "VKO",
+      "DST": "DLM",
+      "GCD": 2194
+    },
+    {
+      "ORG": "VKO",
+      "DST": "ESB",
+      "GCD": 1748
+    },
+    {
+      "ORG": "VKO",
+      "DST": "IST",
+      "GCD": 1710
+    },
+    {
+      "ORG": "VLC",
+      "DST": "IST",
+      "GCD": 2478
+    },
+    {
+      "ORG": "VNO",
+      "DST": "HEL",
+      "GCD": 633
+    },
+    {
+      "ORG": "VNO",
+      "DST": "IST",
+      "GCD": 1508
+    },
+    {
+      "ORG": "VNO",
+      "DST": "RIX",
+      "GCD": 268
+    },
+    {
+      "ORG": "VRN",
+      "DST": "IST",
+      "GCD": 1515
+    },
+    {
+      "ORG": "WAW",
+      "DST": "AYT",
+      "GCD": 1864
+    },
+    {
+      "ORG": "WAW",
+      "DST": "IST",
+      "GCD": 1347
+    },
+    {
+      "ORG": "YEI",
+      "DST": "ADA",
+      "GCD": 616
+    },
+    {
+      "ORG": "YEI",
+      "DST": "ASR",
+      "GCD": 536
+    },
+    {
+      "ORG": "YEI",
+      "DST": "ERZ",
+      "GCD": 990
+    },
+    {
+      "ORG": "YEI",
+      "DST": "GNY",
+      "GCD": 880
+    },
+    {
+      "ORG": "YEI",
+      "DST": "JED",
+      "GCD": 2251
+    },
+    {
+      "ORG": "YEI",
+      "DST": "MSR",
+      "GCD": 1053
+    },
+    {
+      "ORG": "YEI",
+      "DST": "OGU",
+      "GCD": 725
+    },
+    {
+      "ORG": "YEI",
+      "DST": "TZX",
+      "GCD": 869
+    },
+    {
+      "ORG": "YEI",
+      "DST": "VAS",
+      "GCD": 628
+    },
+    {
+      "ORG": "YKO",
+      "DST": "ESB",
+      "GCD": 1016
+    },
+    {
+      "ORG": "YKO",
+      "DST": "EZS",
+      "GCD": 450
+    },
+    {
+      "ORG": "YKO",
+      "DST": "IST",
+      "GCD": 1395
+    },
+    {
+      "ORG": "YKO",
+      "DST": "MSR",
+      "GCD": 262
+    },
+    {
+      "ORG": "YUL",
+      "DST": "IST",
+      "GCD": 7707
+    },
+    {
+      "ORG": "YVR",
+      "DST": "IST",
+      "GCD": 9613
+    },
+    {
+      "ORG": "YWG",
+      "DST": "LAX",
+      "GCD": 2479
+    },
+    {
+      "ORG": "YYR",
+      "DST": "IST",
+      "GCD": 6424
+    },
+    {
+      "ORG": "YYT",
+      "DST": "MIA",
+      "GCD": 3418
+    },
+    {
+      "ORG": "YYZ",
+      "DST": "DFW",
+      "GCD": 1930
+    },
+    {
+      "ORG": "YYZ",
+      "DST": "IST",
+      "GCD": 8193
+    },
+    {
+      "ORG": "ZAG",
+      "DST": "AYT",
+      "GCD": 1572
+    },
+    {
+      "ORG": "ZAG",
+      "DST": "GVA",
+      "GCD": 773
+    },
+    {
+      "ORG": "ZAG",
+      "DST": "IST",
+      "GCD": 1137
+    },
+    {
+      "ORG": "ZNZ",
+      "DST": "DAR",
+      "GCD": 73
+    },
+    {
+      "ORG": "ZNZ",
+      "DST": "IST",
+      "GCD": 5366
+    },
+    {
+      "ORG": "ZNZ",
+      "DST": "JRO",
+      "GCD": 390
+    },
+    {
+      "ORG": "ZRH",
+      "DST": "AYT",
+      "GCD": 2169
+    },
+    {
+      "ORG": "ZRH",
+      "DST": "BSL",
+      "GCD": 79
+    },
+    {
+      "ORG": "ZRH",
+      "DST": "BUD",
+      "GCD": 807
+    },
+    {
+      "ORG": "ZRH",
+      "DST": "IST",
+      "GCD": 1744
+    },
+    {
+      "ORG": "ZRH",
+      "DST": "SAW",
+      "GCD": 1806
+    }
+  ]
+}
