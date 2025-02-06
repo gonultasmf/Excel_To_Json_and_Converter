@@ -2,17 +2,22 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ClosedXML" Version="0.101.0" />
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
+    <PackageReference Include="ExcelDataReader" Version="3.7.0-develop00385" />
+    <PackageReference Include="ExcelDataReader.DataSet" Version="3.7.0-develop00385" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="FileName.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="gcdinfo.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

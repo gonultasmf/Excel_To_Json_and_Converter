@@ -1,51 +1,129 @@
 ﻿using ClosedXML.Excel;
+using DocumentFormat.OpenXml.Packaging;
+using DocumentFormat.OpenXml.Spreadsheet;
+using ExcelDataReader;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System.Data;
+using System.Text;
 
 namespace Excel_To_Json;
 
 public static class ExcelToJson
 {
-    public static void ToJson(string filePath, string outputFileName, string worksheetName = null)
+    public static void ToJson(string filePath, string outputFileName)
     {
-        using (var workbook = new XLWorkbook(filePath)) // Excel dosyası açıldı
+        using (SpreadsheetDocument doc = SpreadsheetDocument.Open(filePath, false))
         {
-            string json = string.Empty;
-
-            if (!string.IsNullOrEmpty(worksheetName))
+            WorkbookPart workbookPart = doc.WorkbookPart;
+            var sb = new StringBuilder();
+            sb.AppendLine("{");
+            
+            foreach (Sheet sheet in workbookPart.Workbook.Descendants<Sheet>())
             {
-                var worksheet = workbook.Worksheet(worksheetName); // Worksheet seçildi.
+                WorksheetPart worksheetPart = (WorksheetPart)workbookPart.GetPartById(sheet.Id);
+                Worksheet worksheet = worksheetPart.Worksheet;
+                SheetData sheetData = worksheet.GetFirstChild<SheetData>();
 
-                json = GenerateJson(worksheet);
-            }
-            else
-            {
-                List<string> months = new() { "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık" };
-                IXLWorksheet[] worksheets = new IXLWorksheet[12];
+                List<Dictionary<string, string>> data = new List<Dictionary<string, string>>();
 
-                var worksheet = workbook.Worksheet("Ocak");
-
-                // Veri okuma işlemi
-                int firstRow = 1;
-                int lastRow = 10;
-                int firstColumn = 1;
-                int lastColumn = 5;
-
-                for (int row = firstRow; row <= lastRow; row++)
+                Row headerRow = sheetData.Descendants<Row>().FirstOrDefault();
+                List<string> columnNames = new List<string>();
+                foreach (Cell cell in headerRow.Descendants<Cell>())
                 {
-                    for (int col = firstColumn; col <= lastColumn; col++)
-                    {
-                        // Hücrenin değerini alın
-                        var cellValue = worksheet.Cell(row, col).Value.ToString();
+                    columnNames.Add(GetCellValue(workbookPart, cell));
+                }
 
-                        // Hücre değerini ekrana yazdırın
-                        Console.WriteLine("Row {0}, Column {1}: {2}", row, col, cellValue);
+                foreach (Row row in sheetData.Descendants<Row>())
+                {
+                    Dictionary<string, string> rowData = new Dictionary<string, string>();
+                    int columnIndex = 0;
+                    foreach (Cell cell in row.Descendants<Cell>())
+                    {
+                        string columnName = columnNames[columnIndex];
+                        string cellValue = GetCellValue(workbookPart, cell);
+                        rowData.Add(columnName, cellValue);
+                        columnIndex++;
+                    }
+                    data.Add(rowData);
+                }
+
+                string sheetName = sheet.Name;
+                string jsonVal = JsonConvert.SerializeObject(data, Formatting.Indented);
+                sb.AppendLine("\"" + sheetName + "\": " + jsonVal + ",");
+            }
+            sb.AppendLine("}");
+            JObject dataJson = JObject.Parse(sb.ToString());
+            JObject updatedData = new JObject();
+
+            foreach (var month in dataJson)
+            {
+                var monthData = (JArray)month.Value;
+                JArray updatedMonthData = new JArray();
+
+                for (int i = 0; i < monthData.Count; i++)
+                {
+                    var rowLabels = monthData[i]["Row Labels"].ToString();
+                    if (IsSixUppercaseLetters(rowLabels))
+                    {
+                        var subRows = new JArray();
+                        for (int j = i + 1; j < monthData.Count; j++)
+                        {
+                            var subRowLabels = monthData[j]["Row Labels"].ToString();
+                            if (IsNumeric(subRowLabels))
+                            {
+                                subRows.Add(monthData[j]);
+                            }
+                            else
+                            {
+                                break;
+                            }
+                        }
+                        monthData[i]["SubRows"] = subRows;
+                        updatedMonthData.Add(monthData[i]);
                     }
                 }
 
+                updatedData[month.Key] = updatedMonthData;
             }
 
-            File.WriteAllText($"{outputFileName}.json", json);
+            File.WriteAllText($"{outputFileName}.json", updatedData.ToString());
         }
+
+
+    }
+
+    private static bool IsSixUppercaseLetters(string value)
+    {
+        if (value.Length != 6)
+            return false;
+
+        foreach (char c in value)
+        {
+            if (!char.IsUpper(c))
+                return false;
+        }
+
+        return true;
+    }
+
+    private static bool IsNumeric(string value)
+    {
+        return int.TryParse(value, out _);
+    }
+
+    static string GetCellValue(WorkbookPart workbookPart, Cell cell)
+    {
+        SharedStringTablePart stringTablePart = workbookPart.GetPartsOfType<SharedStringTablePart>().FirstOrDefault();
+        string value = cell.InnerText;
+        if (cell.DataType != null && cell.DataType.Value == CellValues.SharedString)
+        {
+            if (stringTablePart != null)
+            {
+                value = stringTablePart.SharedStringTable.ElementAt(int.Parse(value)).InnerText;
+            }
+        }
+        return value;
     }
 
     private static string GenerateJson(params IXLWorksheet[] worksheets)
